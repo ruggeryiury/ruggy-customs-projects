@@ -1,0 +1,13 @@
+# CON Files folder
+packages/
+
+# Duplicated MAGMA Album arts
+*_keep_x256.bmp
+*_keep.png_xbox
+
+# All WAV Folders
+wav/
+
+# Reaper backup files and generated MIDI files
+*.RPP-bak
+*.mid
