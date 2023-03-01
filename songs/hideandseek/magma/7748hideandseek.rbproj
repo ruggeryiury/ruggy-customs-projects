@@ -9,18 +9,18 @@
       'metadata'
       (
          'song_name'
-         "Paint War"
+         "Hide and Seek"
       )
       (
          'artist_name'
-         "Dream Avenue"
+         "Imogen Heap"
       )
       ('genre' 'popdanceelectronic')
-      ('sub_genre' 'subgenre_chiptune')
-      ('year_released' 2018)
+      ('sub_genre' 'subgenre_other')
+      ('year_released' 2005)
       (
          'album_name'
-         "Our Shared Universes"
+         "Speak for Yourself"
       )
       (
          'author'
@@ -32,24 +32,24 @@
       )
       ('country' 'ugc_country_us')
       ('price' 80)
-      ('track_number' 4)
+      ('track_number' 5)
       ('has_album' 1)
    )
    (
       'gamedata'
-      ('preview_start_ms' 42914)
-      ('rank_guitar' 3)
+      ('preview_start_ms' 142990)
+      ('rank_guitar' 1)
       ('rank_bass' 1)
-      ('rank_drum' 3)
-      ('rank_vocals' 1)
-      ('rank_keys' 3)
-      ('rank_pro_keys' 3)
-      ('rank_band' 3)
+      ('rank_drum' 1)
+      ('rank_vocals' 5)
+      ('rank_keys' 1)
+      ('rank_pro_keys' 1)
+      ('rank_band' 5)
       ('vocal_scroll_speed' 2300)
       ('anim_tempo' 32)
-      ('vocal_gender' 'male')
+      ('vocal_gender' 'female')
       ('vocal_percussion' 'tambourine')
-      ('vocal_parts' 0)
+      ('vocal_parts' 2)
       ('guide_pitch_volume' -3.00)
    )
    (
@@ -63,17 +63,17 @@
    )
    (
       'destination_file'
-      "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\paintwar\\magma\\7748paintwar.rba"
+      "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hideandseek\\magma\\7748hideandseek.rba"
    )
    (
       'midi'
       (
          'file'
-         "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\paintwaR\\7748paintwar.mid"
+         "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hideandseek\\7748hideandseek.mid"
       )
       (
          'autogen_theme'
-         "PsychJamRock.rbtheme"
+         ""
       )
    )
    (
@@ -82,17 +82,17 @@
          'part0'
          (
             'file'
-            ""
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\blank_dryvox.wav"
          )
-         ('enabled' 0)
+         ('enabled' 1)
       )
       (
          'part1'
          (
             'file'
-            ""
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\blank_dryvox.wav"
          )
-         ('enabled' 0)
+         ('enabled' 1)
       )
       (
          'part2'
@@ -108,7 +108,7 @@
       'album_art'
       (
          'file'
-         "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\paintwar\\magma\\7748paintwar_keep_x256.bmp"
+         "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hideandseek\\magma\\7748hideandseek_keep_x256.bmp"
       )
    )
    (
@@ -116,13 +116,13 @@
       ('drum_layout' 'drum_layout_kit')
       (
          'drum_kit'
-         ('enabled' 1)
+         ('enabled' 0)
          ('channels' 2)
          ('pan' -1.00 1.00)
          ('vol' 0.00 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\paintwar\\wav\\drums.wav"
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
          )
       )
       (
@@ -149,46 +149,46 @@
       )
       (
          'bass'
-         ('enabled' 1)
-         ('channels' 2)
-         ('pan' -1.00 1.00)
-         ('vol' 0.00 0.00)
-         (
-            'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\paintwar\\wav\\bass.wav"
-         )
-      )
-      (
-         'guitar'
-         ('enabled' 1)
-         ('channels' 2)
-         ('pan' -1.00 1.00)
-         ('vol' 0.00 0.00)
-         (
-            'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\paintwar\\wav\\guitar.wav"
-         )
-      )
-      (
-         'vocals'
          ('enabled' 0)
          ('channels' 2)
          ('pan' -1.00 1.00)
          ('vol' 0.00 0.00)
          (
             'file'
-            "audio\\stereo44.wav"
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
          )
       )
       (
-         'keys'
+         'guitar'
+         ('enabled' 0)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
+         )
+      )
+      (
+         'vocals'
          ('enabled' 1)
          ('channels' 2)
          ('pan' -1.00 1.00)
          ('vol' 0.00 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\paintwar\\wav\\keys.wav"
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hideandseek\\wav\\silence-stereo.wav"
+         )
+      )
+      (
+         'keys'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan')
+         ('vol')
+         (
+            'file'
+            ""
          )
       )
       (
@@ -199,7 +199,7 @@
          ('vol' 0.00 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\paintwar\\wav\\backing.wav"
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hideandseek\\wav\\backing.wav"
          )
       )
    )

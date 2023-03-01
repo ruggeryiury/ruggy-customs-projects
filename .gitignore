@@ -1,13 +1,16 @@
-# CON Files folder
+# CON files folder
 packages/
 
-# Duplicated MAGMA Album arts
+# Duplicated MAGMA album arts
 *_keep_x256.bmp
 *_keep.png_xbox
 
-# All WAV Folders
+# All WAV folders
 wav/
 
-# Reaper backup files and generated MIDI files
+# Lipsync folder
+lipsync/
+
+# REAPER backup files and generated MIDI files
 *.RPP-bak
 *.mid

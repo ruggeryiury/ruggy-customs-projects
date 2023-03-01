@@ -1,8 +1,8 @@
 //Created by Magma: C3 Roks Edition v3.3.5
 //DO NOT EDIT MANUALLY
-Song=Paint War
-Artist=Dream Avenue
-Album=Our Shared Universes
+Song=Hide and Seek
+Artist=Imogen Heap
+Album=Speak for Yourself
 CustomID=
 Version=1
 IsMaster=True
@@ -11,16 +11,13 @@ EncodingQuality=7
 RhythmKeys=False
 RhythmBass=False
 Karaoke=False
-Multitrack=True
+Multitrack=False
 Convert=False
 ExpertOnly=False
-ProBassDiff=1
-ProBassTuning4=(real_bass_tuning (0 0 0 0))
-ProGuitarDiff=208
-ProGuitarTuning=(real_guitar_tuning (0 0 0 0 0 0))
 DisableProKeys=False
+TonicNote=9
 TuningCents=0
-SongRating=1
+SongRating=2
 DrumKitSFX=0
 HopoTresholdIndex=2
 MuteVol=-96
@@ -30,18 +27,18 @@ SoloGuitar=False
 SoloBass=False
 SoloKeys=False
 SoloVocals=False
-SongPreview=42914
+SongPreview=142990
 CheckTempoMap=True
 WiiMode=False
-DoDrumMixEvents=True
-PackageDisplay=Dream Avenue - Paint War
+DoDrumMixEvents=False
+PackageDisplay=Imogen Heap - Hide and Seek
 PackageDescription=Created with Magma: C3 Roks Edition. For more great customs authoring tools, visit forums.customscreators.com
-SongAlbumArt=c:\users\ruggery\documents\visual studio code\projects\ruggy-customs-projects\songs\paintwar\magma\7748paintwar_keep.png
+SongAlbumArt=C:\Users\Ruggery\Documents\Visual Studio Code\Projects\ruggy-customs-projects\songs\hideandseek\magma\7748hideandseek_keep.png
 PackageThumb=
 EncodeANSI=True
 EncodeUTF8=False
 UseNumericID=True
-UniqueNumericID=1774800001
+UniqueNumericID=1774800003
 UniqueNumericID2X=
 
 TO DO List Begin

@@ -1,8 +1,8 @@
 //Created by Magma: C3 Roks Edition v3.3.5
 //DO NOT EDIT MANUALLY
-Song=Paint War
-Artist=Dream Avenue
-Album=Our Shared Universes
+Song=South Park Theme
+Artist=Primus
+Album=Chef Aid: The South Park Album
 CustomID=
 Version=1
 IsMaster=True
@@ -11,16 +11,17 @@ EncodingQuality=7
 RhythmKeys=False
 RhythmBass=False
 Karaoke=False
-Multitrack=True
+Multitrack=False
 Convert=False
 ExpertOnly=False
-ProBassDiff=1
+ProBassDiff=208
 ProBassTuning4=(real_bass_tuning (0 0 0 0))
-ProGuitarDiff=208
+ProGuitarDiff=325
 ProGuitarTuning=(real_guitar_tuning (0 0 0 0 0 0))
 DisableProKeys=False
+TonicNote=6
 TuningCents=0
-SongRating=1
+SongRating=3
 DrumKitSFX=0
 HopoTresholdIndex=2
 MuteVol=-96
@@ -30,18 +31,18 @@ SoloGuitar=False
 SoloBass=False
 SoloKeys=False
 SoloVocals=False
-SongPreview=42914
+SongPreview=4864
 CheckTempoMap=True
 WiiMode=False
 DoDrumMixEvents=True
-PackageDisplay=Dream Avenue - Paint War
+PackageDisplay=Primus - South Park Theme
 PackageDescription=Created with Magma: C3 Roks Edition. For more great customs authoring tools, visit forums.customscreators.com
-SongAlbumArt=c:\users\ruggery\documents\visual studio code\projects\ruggy-customs-projects\songs\paintwar\magma\7748paintwar_keep.png
+SongAlbumArt=c:\users\ruggery\documents\visual studio code\projects\ruggy-customs-projects\songs\southparktheme\magma\7748southparktheme_keep.png
 PackageThumb=
 EncodeANSI=True
 EncodeUTF8=False
 UseNumericID=True
-UniqueNumericID=1774800001
+UniqueNumericID=1774800002
 UniqueNumericID2X=
 
 TO DO List Begin
