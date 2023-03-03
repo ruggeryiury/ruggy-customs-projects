@@ -9,18 +9,18 @@
       'metadata'
       (
          'song_name'
-         "Hide and Seek"
+         "Cravo e Canela"
       )
       (
          'artist_name'
-         "Imogen Heap"
+         "Clube da Esquina"
       )
-      ('genre' 'popdanceelectronic')
-      ('sub_genre' 'subgenre_other')
-      ('year_released' 2005)
+      ('genre' 'latin')
+      ('sub_genre' 'subgenre_latin')
+      ('year_released' 1972)
       (
          'album_name'
-         "Speak for Yourself"
+         "Clube da Esquina"
       )
       (
          'author'
@@ -32,48 +32,48 @@
       )
       ('country' 'ugc_country_us')
       ('price' 80)
-      ('track_number' 5)
+      ('track_number' 6)
       ('has_album' 1)
    )
    (
       'gamedata'
-      ('preview_start_ms' 142990)
-      ('rank_guitar' 1)
-      ('rank_bass' 1)
-      ('rank_drum' 1)
-      ('rank_vocals' 5)
-      ('rank_keys' 1)
-      ('rank_pro_keys' 1)
-      ('rank_band' 5)
+      ('preview_start_ms' 32426)
+      ('rank_guitar' 5)
+      ('rank_bass' 3)
+      ('rank_drum' 4)
+      ('rank_vocals' 4)
+      ('rank_keys' 3)
+      ('rank_pro_keys' 4)
+      ('rank_band' 4)
       ('vocal_scroll_speed' 2300)
       ('anim_tempo' 32)
-      ('vocal_gender' 'female')
+      ('vocal_gender' 'male')
       ('vocal_percussion' 'tambourine')
       ('vocal_parts' 2)
       ('guide_pitch_volume' -3.00)
    )
    (
       'languages'
-      ('english' 1)
+      ('english' 0)
       ('french' 0)
       ('italian' 0)
-      ('spanish' 0)
+      ('spanish' 1)
       ('german' 0)
       ('japanese' 0)
    )
    (
       'destination_file'
-      "c:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hideandseek\\magma\\7748hideandseek.rba"
+      "c:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\cravoecanela\\magma\\7748cravoecanela.rba"
    )
    (
       'midi'
       (
          'file'
-         "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hideandseek\\7748hideandseek.mid"
+         "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\cravoecanela\\7748cravoecanela.mid"
       )
       (
          'autogen_theme'
-         ""
+         "ArenaRock.rbtheme"
       )
    )
    (
@@ -108,7 +108,7 @@
       'album_art'
       (
          'file'
-         "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\hideandseek\\magma\\7748hideandseek_keep_x256.bmp"
+         "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\cravoecanela\\magma\\7748cravoecanela_keep_x256.bmp"
       )
    )
    (
@@ -116,7 +116,7 @@
       ('drum_layout' 'drum_layout_kit')
       (
          'drum_kit'
-         ('enabled' 0)
+         ('enabled' 1)
          ('channels' 2)
          ('pan' -1.00 1.00)
          ('vol' 0.00 0.00)
@@ -149,24 +149,24 @@
       )
       (
          'bass'
-         ('enabled' 0)
-         ('channels' 2)
-         ('pan' -1.00 1.00)
-         ('vol' 0.00 0.00)
+         ('enabled' 1)
+         ('channels' 1)
+         ('pan' 0.00)
+         ('vol' 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\mono44.wav"
          )
       )
       (
          'guitar'
-         ('enabled' 0)
-         ('channels' 2)
-         ('pan' -1.00 1.00)
-         ('vol' 0.00 0.00)
+         ('enabled' 1)
+         ('channels' 1)
+         ('pan' 0.00)
+         ('vol' 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\mono44.wav"
          )
       )
       (
@@ -182,13 +182,13 @@
       )
       (
          'keys'
-         ('enabled' 0)
-         ('channels' 0)
-         ('pan')
-         ('vol')
+         ('enabled' 1)
+         ('channels' 1)
+         ('pan' 0.00)
+         ('vol' 0.00)
          (
             'file'
-            ""
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\mono44.wav"
          )
       )
       (
@@ -199,7 +199,7 @@
          ('vol' 0.00 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hideandseek\\wav\\backing.wav"
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\cravoecanela\\wav\\backing.wav"
          )
       )
    )

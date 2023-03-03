@@ -1,8 +1,8 @@
-//Created by Magma: C3 Roks Edition v3.3.5
+﻿//Created by Magma: C3 Roks Edition v3.3.5
 //DO NOT EDIT MANUALLY
-Song=Hide and Seek
-Artist=Imogen Heap
-Album=Speak for Yourself
+Song=Cravo e Canela
+Artist=Clube da Esquina
+Album=Clube da Esquina
 CustomID=
 Version=2
 IsMaster=True
@@ -15,9 +15,9 @@ Multitrack=False
 Convert=False
 ExpertOnly=False
 DisableProKeys=False
-TonicNote=9
+TonicNote=7
 TuningCents=0
-SongRating=2
+SongRating=1
 DrumKitSFX=0
 HopoTresholdIndex=2
 MuteVol=-96
@@ -25,20 +25,20 @@ VocalMuteVol=-12
 SoloDrums=False
 SoloGuitar=False
 SoloBass=False
-SoloKeys=False
+SoloKeys=True
 SoloVocals=False
-SongPreview=142990
+SongPreview=32426
 CheckTempoMap=True
 WiiMode=False
-DoDrumMixEvents=False
-PackageDisplay=Imogen Heap - Hide and Seek
+DoDrumMixEvents=True
+PackageDisplay=Clube da Esquina - Cravo e Canela
 PackageDescription=Created with Magma: C3 Roks Edition. For more great customs authoring tools, visit forums.customscreators.com
-SongAlbumArt=c:\users\ruggery\documents\visual studio code\projects\ruggy-customs-projects\songs\hideandseek\magma\7748hideandseek_keep.png
+SongAlbumArt=c:\users\ruggery\documents\visual studio code\projects\ruggy-customs-projects\songs\cravoecanela\magma\7748cravoecanela_keep.png
 PackageThumb=
-EncodeANSI=True
-EncodeUTF8=False
+EncodeANSI=False
+EncodeUTF8=True
 UseNumericID=True
-UniqueNumericID=1774800003
+UniqueNumericID=1774800004
 UniqueNumericID2X=
 
 TO DO List Begin
