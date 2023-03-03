@@ -150,12 +150,12 @@
       (
          'bass'
          ('enabled' 1)
-         ('channels' 1)
-         ('pan' 0.00)
-         ('vol' 0.00)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\mono44.wav"
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
          )
       )
       (
