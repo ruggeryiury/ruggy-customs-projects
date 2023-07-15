@@ -9,18 +9,18 @@
       'metadata'
       (
          'song_name'
-         "South Park Theme"
+         "Battle Theme 2 (Hippie Battle)"
       )
       (
          'artist_name'
-         "Primus"
+         "Keiichi Suzuki & Hirokazu Tanaka"
       )
-      ('genre' 'alternative')
-      ('sub_genre' 'subgenre_alternative')
-      ('year_released' 1998)
+      ('genre' 'popdanceelectronic')
+      ('sub_genre' 'subgenre_chiptune')
+      ('year_released' 1989)
       (
          'album_name'
-         "Chef Aid: The South Park Album"
+         "MOTHER (Original Soundtrack)"
       )
       (
          'author'
@@ -32,24 +32,24 @@
       )
       ('country' 'ugc_country_us')
       ('price' 80)
-      ('track_number' 1)
+      ('track_number' 7)
       ('has_album' 1)
    )
    (
       'gamedata'
-      ('preview_start_ms' 4864)
-      ('rank_guitar' 5)
-      ('rank_bass' 3)
-      ('rank_drum' 4)
+      ('preview_start_ms' 36000)
+      ('rank_guitar' 4)
+      ('rank_bass' 4)
+      ('rank_drum' 3)
       ('rank_vocals' 1)
       ('rank_keys' 1)
       ('rank_pro_keys' 1)
-      ('rank_band' 4)
+      ('rank_band' 3)
       ('vocal_scroll_speed' 2300)
-      ('anim_tempo' 32)
+      ('anim_tempo' 64)
       ('vocal_gender' 'male')
       ('vocal_percussion' 'tambourine')
-      ('vocal_parts' 3)
+      ('vocal_parts' 0)
       ('guide_pitch_volume' -3.00)
    )
    (
@@ -63,17 +63,17 @@
    )
    (
       'destination_file'
-      "c:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\southparktheme\\magma\\7748southparktheme.rba"
+      "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\hippiebattle\\magma\\7748hippiebattle.rba"
    )
    (
       'midi'
       (
          'file'
-         "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\southparktheme\\7748southparktheme.mid"
+         "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hippiebattle\\7748hippiebattle.mid"
       )
       (
          'autogen_theme'
-         "ArenaRock.rbtheme"
+         "FeelGoodPopRock.rbtheme"
       )
    )
    (
@@ -82,25 +82,25 @@
          'part0'
          (
             'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\southparktheme\\lipsync\\HARM1.wav"
+            ""
          )
-         ('enabled' 1)
+         ('enabled' 0)
       )
       (
          'part1'
          (
             'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\southparktheme\\lipsync\\HARM2.wav"
+            ""
          )
-         ('enabled' 1)
+         ('enabled' 0)
       )
       (
          'part2'
          (
             'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\southparktheme\\lipsync\\HARM3.wav"
+            ""
          )
-         ('enabled' 1)
+         ('enabled' 0)
       )
       ('tuning_offset_cents' 0.00)
    )
@@ -108,12 +108,12 @@
       'album_art'
       (
          'file'
-         "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\southparktheme\\magma\\7748southparktheme_keep_x256.bmp"
+         "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\hippiebattle\\magma\\7748hippiebattle_keep_x256.bmp"
       )
    )
    (
       'tracks'
-      ('drum_layout' 'drum_layout_kit')
+      ('drum_layout' 'drum_layout_kit_kick_snare')
       (
          'drum_kit'
          ('enabled' 1)
@@ -122,29 +122,29 @@
          ('vol' 0.00 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hippiebattle\\wav\\kit.wav"
          )
       )
       (
          'drum_kick'
-         ('enabled' 0)
-         ('channels' 0)
+         ('enabled' 1)
+         ('channels' 1)
          ('pan' 0.00)
          ('vol' 0.00)
          (
             'file'
-            ""
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hippiebattle\\wav\\kick.wav"
          )
       )
       (
          'drum_snare'
-         ('enabled' 0)
-         ('channels' 0)
+         ('enabled' 1)
+         ('channels' 1)
          ('pan' 0.00)
          ('vol' 0.00)
          (
             'file'
-            ""
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hippiebattle\\wav\\snare.wav"
          )
       )
       (
@@ -155,7 +155,7 @@
          ('vol' 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\mono44.wav"
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hippiebattle\\wav\\bass.wav"
          )
       )
       (
@@ -166,18 +166,18 @@
          ('vol' 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\mono44.wav"
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hippiebattle\\wav\\guitar.wav"
          )
       )
       (
          'vocals'
-         ('enabled' 1)
-         ('channels' 1)
-         ('pan' 0.00)
-         ('vol' 0.00)
+         ('enabled' 0)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\mono44.wav"
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
          )
       )
       (
@@ -199,7 +199,7 @@
          ('vol' 0.00 0.00)
          (
             'file'
-            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\southparktheme\\wav\\backing.wav"
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\hippiebattle\\wav\\backing.wav"
          )
       )
    )

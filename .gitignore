@@ -5,8 +5,12 @@ packages/
 *_keep_x256.bmp
 *_keep.png_xbox
 
-# All WAV folders
+# All WAV, MIX, and DIY Stems folders
 wav/
+mix/
+diy-stems/
+
+patins/
 
 # Lipsync folder
 lipsync/

@@ -1,0 +1,206 @@
+(
+   'project'
+   (
+      'tool_version'
+      "110411_A"
+   )
+   ('project_version' 24)
+   (
+      'metadata'
+      (
+         'song_name'
+         "Pollyanna (I Believe in You)"
+      )
+      (
+         'artist_name'
+         "Keiichi Suzuki & Hirokazu Tanaka"
+      )
+      ('genre' 'popdanceelectronic')
+      ('sub_genre' 'subgenre_chiptune')
+      ('year_released' 1989)
+      (
+         'album_name'
+         "MOTHER (Original Soundtrack)"
+      )
+      (
+         'author'
+         "Ruggy"
+      )
+      (
+         'release_label'
+         ""
+      )
+      ('country' 'ugc_country_us')
+      ('price' 80)
+      ('track_number' 4)
+      ('has_album' 1)
+   )
+   (
+      'gamedata'
+      ('preview_start_ms' 4267)
+      ('rank_guitar' 4)
+      ('rank_bass' 3)
+      ('rank_drum' 2)
+      ('rank_vocals' 1)
+      ('rank_keys' 3)
+      ('rank_pro_keys' 3)
+      ('rank_band' 3)
+      ('vocal_scroll_speed' 2300)
+      ('anim_tempo' 32)
+      ('vocal_gender' 'male')
+      ('vocal_percussion' 'tambourine')
+      ('vocal_parts' 0)
+      ('guide_pitch_volume' -3.00)
+   )
+   (
+      'languages'
+      ('english' 1)
+      ('french' 0)
+      ('italian' 0)
+      ('spanish' 0)
+      ('german' 0)
+      ('japanese' 0)
+   )
+   (
+      'destination_file'
+      "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\pollyanna\\magma\\7748pollyanna.rba"
+   )
+   (
+      'midi'
+      (
+         'file'
+         "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\pollyanna\\7748pollyanna.mid"
+      )
+      (
+         'autogen_theme'
+         "ArenaRock.rbtheme"
+      )
+   )
+   (
+      'dry_vox'
+      (
+         'part0'
+         (
+            'file'
+            ""
+         )
+         ('enabled' 0)
+      )
+      (
+         'part1'
+         (
+            'file'
+            ""
+         )
+         ('enabled' 0)
+      )
+      (
+         'part2'
+         (
+            'file'
+            ""
+         )
+         ('enabled' 0)
+      )
+      ('tuning_offset_cents' 0.00)
+   )
+   (
+      'album_art'
+      (
+         'file'
+         "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\pollyanna\\magma\\7748pollyanna_keep_x256.bmp"
+      )
+   )
+   (
+      'tracks'
+      ('drum_layout' 'drum_layout_kit_kick_snare')
+      (
+         'drum_kit'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\pollyanna\\wav\\kit.wav"
+         )
+      )
+      (
+         'drum_kick'
+         ('enabled' 1)
+         ('channels' 1)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\pollyanna\\wav\\kick.wav"
+         )
+      )
+      (
+         'drum_snare'
+         ('enabled' 1)
+         ('channels' 1)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\pollyanna\\wav\\snare.wav"
+         )
+      )
+      (
+         'bass'
+         ('enabled' 1)
+         ('channels' 1)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\pollyanna\\wav\\bass.wav"
+         )
+      )
+      (
+         'guitar'
+         ('enabled' 1)
+         ('channels' 1)
+         ('pan' -0.20)
+         ('vol' 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\pollyanna\\wav\\guitar.wav"
+         )
+      )
+      (
+         'vocals'
+         ('enabled' 0)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
+         )
+      )
+      (
+         'keys'
+         ('enabled' 1)
+         ('channels' 1)
+         ('pan' 0.20)
+         ('vol' 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\pollyanna\\wav\\keys.wav"
+         )
+      )
+      (
+         'backing'
+         ('enabled' 1)
+         ('channels' 1)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\pollyanna\\wav\\backing.wav"
+         )
+      )
+   )
+)
