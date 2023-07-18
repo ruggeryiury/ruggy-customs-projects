@@ -7,14 +7,16 @@ packages/
 
 # All WAV, MIX, and DIY Stems folders
 wav/
-mix/
 diy-stems/
 
-patins/
+# Work in progress songs
+wip/
 
 # Lipsync folder
 lipsync/
 
+7748*.mid
 # REAPER backup files and generated MIDI files
 *.RPP-bak
-*.mid
+*.wav
+*.flac
