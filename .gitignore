@@ -5,7 +5,7 @@ packages/
 *_keep_x256.bmp
 *_keep.png_xbox
 
-# All WAV, MIX, and DIY Stems folders
+# All WAV and DIY Stems folders
 wav/
 diy-stems/
 
@@ -15,8 +15,8 @@ wip/
 # Lipsync folder
 lipsync/
 
-7748*.mid
 # REAPER backup files and generated MIDI files
+7748*.mid
 *.RPP-bak
 *.wav
 *.flac

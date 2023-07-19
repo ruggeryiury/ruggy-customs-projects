@@ -1,0 +1,206 @@
+(
+   'project'
+   (
+      'tool_version'
+      "110411_A"
+   )
+   ('project_version' 24)
+   (
+      'metadata'
+      (
+         'song_name'
+         "Lights In the Sky"
+      )
+      (
+         'artist_name'
+         "Nine Inch Nails"
+      )
+      ('genre' 'rock')
+      ('sub_genre' 'subgenre_rock')
+      ('year_released' 2008)
+      (
+         'album_name'
+         "The Slip"
+      )
+      (
+         'author'
+         "Ruggy"
+      )
+      (
+         'release_label'
+         ""
+      )
+      ('country' 'ugc_country_us')
+      ('price' 80)
+      ('track_number' 7)
+      ('has_album' 1)
+   )
+   (
+      'gamedata'
+      ('preview_start_ms' 74181)
+      ('rank_guitar' 1)
+      ('rank_bass' 1)
+      ('rank_drum' 1)
+      ('rank_vocals' 1)
+      ('rank_keys' 1)
+      ('rank_pro_keys' 2)
+      ('rank_band' 1)
+      ('vocal_scroll_speed' 2000)
+      ('anim_tempo' 16)
+      ('vocal_gender' 'male')
+      ('vocal_percussion' 'tambourine')
+      ('vocal_parts' 1)
+      ('guide_pitch_volume' -3.00)
+   )
+   (
+      'languages'
+      ('english' 1)
+      ('french' 0)
+      ('italian' 0)
+      ('spanish' 0)
+      ('german' 0)
+      ('japanese' 0)
+   )
+   (
+      'destination_file'
+      "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\lightsinthesky\\magma\\7748lightsinthesky.rba"
+   )
+   (
+      'midi'
+      (
+         'file'
+         "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\lightsinthesky\\7748lightsinthesky.mid"
+      )
+      (
+         'autogen_theme'
+         "ArenaRock.rbtheme"
+      )
+   )
+   (
+      'dry_vox'
+      (
+         'part0'
+         (
+            'file'
+            "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\lightsinthesky\\magma\\HARM1.wav"
+         )
+         ('enabled' 1)
+      )
+      (
+         'part1'
+         (
+            'file'
+            ""
+         )
+         ('enabled' 0)
+      )
+      (
+         'part2'
+         (
+            'file'
+            ""
+         )
+         ('enabled' 0)
+      )
+      ('tuning_offset_cents' 0.00)
+   )
+   (
+      'album_art'
+      (
+         'file'
+         "c:\\users\\ruggery\\documents\\visual studio code\\projects\\ruggy-customs-projects\\songs\\lightsinthesky\\magma\\7748lightsinthesky_keep_x256.bmp"
+      )
+   )
+   (
+      'tracks'
+      ('drum_layout' 'drum_layout_kit')
+      (
+         'drum_kit'
+         ('enabled' 0)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
+         )
+      )
+      (
+         'drum_kick'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            ""
+         )
+      )
+      (
+         'drum_snare'
+         ('enabled' 0)
+         ('channels' 0)
+         ('pan' 0.00)
+         ('vol' 0.00)
+         (
+            'file'
+            ""
+         )
+      )
+      (
+         'bass'
+         ('enabled' 0)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
+         )
+      )
+      (
+         'guitar'
+         ('enabled' 0)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Desktop\\Rock Band\\Magma\\audio\\stereo44.wav"
+         )
+      )
+      (
+         'vocals'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\lightsinthesky\\wav\\vocals.wav"
+         )
+      )
+      (
+         'keys'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\lightsinthesky\\wav\\keys.wav"
+         )
+      )
+      (
+         'backing'
+         ('enabled' 1)
+         ('channels' 2)
+         ('pan' -1.00 1.00)
+         ('vol' 0.00 0.00)
+         (
+            'file'
+            "C:\\Users\\Ruggery\\Documents\\Visual Studio Code\\Projects\\ruggy-customs-projects\\songs\\lightsinthesky\\wav\\backing.wav"
+         )
+      )
+   )
+)
