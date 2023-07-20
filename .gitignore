@@ -12,9 +12,6 @@ diy-stems/
 # Work in progress songs
 wip/
 
-# Lipsync folder
-lipsync/
-
 # REAPER backup files and generated MIDI files
 7748*.mid
 *.RPP-bak
