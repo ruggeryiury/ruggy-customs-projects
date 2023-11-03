@@ -12,13 +12,13 @@
   GRID 3199 8 1.00000000000000 8 1.00000000000000 0
   TIMEMODE 1 0 -1
   PANMODE 3
-  CURSOR 0.00000000000000
-  ZOOM 12.48682905772092 0 0
+  CURSOR 5.45455000000048
+  ZOOM 11.65644884988321 0 0
   VZOOMEX 5
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 23.976024 100 40 1000 300 0 0.000000 1
-  LOOP 0
+  LOOP 1
   LOOPGRAN 0 4.00000000000000
   RECORD_PATH "" ""
   <RECORD_CFG
@@ -26,10 +26,11 @@
   >
   <APPLYFX_CFG
   >
-  RENDER_FILE "C:\Users\Ruggery\Desktop\HD\Customs\Songs\18. Over The Garden Wall - The Fight Is Over\thefightisover.wav"
-  RENDER_FMT 0 2 44100
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
   RENDER_1X 0
-  RENDER_RANGE 2 0.00000000000000 0.00000000000000
+  RENDER_RANGE 1 0.00000000000000 0.00000000000000
   RENDER_RESAMPLE 3 0 1
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
@@ -40,7 +41,6 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
-    ZXZhdxAD
   >
   LOCK 1
   <METRONOME 6 2.000000
@@ -52,16 +52,16 @@
   GLOBAL_AUTO -1
   TEMPO 120.00000000000000 4 4
   PLAYRATE 1.00000000000000 0 0.25000 4.00000
-  SELECTION 0.00000000000000 87.58319334564294
-  SELECTION2 0.00000000000000 87.58319334564294
+  SELECTION 87.58320000000151 0.00000000000000
+  SELECTION2 87.58320000000151 0.00000000000000
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 1 0.666700 0.500000 0.500000 -1 -1 -1
+  MASTERTRACKVIEW 0 0.666700 0.500000 0.500000 -1 -1 -1
   MASTERHWOUT 0 0 1.00000000000000 0.00000000000000 0 0 0 -1.00000000000000
   MASTER_NCH 2 2
-  MASTER_VOLUME 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+  MASTER_VOLUME 0.07693020882107 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
   MASTER_PANMODE -1
   MASTER_FX 1
   MASTER_SEL 0
@@ -78,51 +78,51 @@
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
-    PT 0.000000000000 110.0000000000 1 262148
-    PT 6.545454545455 108.3294117760 1
-    PT 7.653186952058 118.4941176400 1
-    PT 8.665895450867 108.3294117760 1
-    PT 9.773627857469 115.1058823600 1
-    PT 10.816146254633 112.8470588235 1
-    PT 11.879532409763 111.1529411765 1
-    PT 15.118313104089 120.7529411765 1
-    PT 15.615195411182 114.5411764706 1
-    PT 16.662853587024 111.1529411765 1
-    PT 18.822040716576 111.7176470588 1
-    PT 19.359108955834 112.2823529412 1
-    PT 20.427843239154 115.1058823529 1
-    PT 21.991620835229 121.3176470588 1
-    PT 22.486190268898 106.0705882353 1
-    PT 23.051851315926 111.1529411765 1
-    PT 25.750835227865 113.4117647059 1
-    PT 27.867017800479 109.4588235294 1
-    PT 30.607774464279 115.1058823529 1
-    PT 31.650292861663 112.8470588235 1
-    PT 32.181985939228 114.5411764706 1
-    PT 33.229644115070 110.5882352941 1
-    PT 34.314750498049 111.7176470588 1
-    PT 36.463023455083 112.8470588235 1
-    PT 36.994716532648 112.2823529412 1
-    PT 38.597817957627 106.6352941176 1
-    PT 39.160483447477 117.3647058824 1
-    PT 40.694164281478 109.4588235294 1
-    PT 41.790466946999 116.8000000000 1
-    PT 42.304165577136 111.1529411765 1
-    PT 45.003149489075 112.2823529412 1
-    PT 55.690492322268 113.4117647059 1
-    PT 56.748583608575 111.1529411765 1
-    PT 57.828177173351 111.7176470588 1
-    PT 59.976450130385 112.2823529412 1
-    PT 62.113918697024 112.8470588235 1
-    PT 64.240691007283 114.5411764706 1
-    PT 66.336007358967 112.2823529412 1
-    PT 72.748413058883 111.1529411765 1
-    PT 73.828006623659 113.4117647059 1 0 1
+    PT 0.000000000000 109.9999083334 1
+    PT 6.545460000000 108.3294515280 1
+    PT 7.653192000000 118.4941760112 1
+    PT 8.665900000000 108.3294515280 1
+    PT 9.773632000000 115.1059262286 1
+    PT 10.816150000000 112.8470752859 1
+    PT 11.879536000000 111.1528963666 1
+    PT 15.118318000000 120.7530158066 1
+    PT 15.615200000000 114.5411956955 1
+    PT 16.662858000000 111.1528963666 1
+    PT 18.822046000000 111.7176968280 1
+    PT 19.359114000000 112.2823827070 1
+    PT 20.427848000000 115.1059262286 1
+    PT 21.991625000000 121.3177534378 1
+    PT 22.486194000000 106.0705970537 1
+    PT 23.051855000000 111.1528963666 1
+    PT 25.750840000000 113.4116882086 1
+    PT 27.867024000000 109.4588899774 1
+    PT 30.607779000000 115.1059262286 1
+    PT 31.650297000000 112.8470752859 1
+    PT 32.181990000000 114.5411956955 1
+    PT 33.229648000000 110.5882743253 1
+    PT 34.314754000000 111.7176968280 1
+    PT 36.463026000000 112.8470752859 1
+    PT 36.994719000000 112.2823827070 1
+    PT 38.597820000000 106.6353869532 1
+    PT 39.160485000000 117.3646931794 1
+    PT 40.694166000000 109.4588899774 1
+    PT 41.790468000000 116.7999159041 1
+    PT 42.304167000000 111.1528963666 1
+    PT 45.003152000000 112.2823827070 1
+    PT 55.690492000000 113.4116882086 1
+    PT 56.748584000000 111.1528963666 1
+    PT 57.828178000000 111.7176968280 1
+    PT 59.976450000000 112.2823827070 1
+    PT 62.113918000000 112.8470752859 1
+    PT 64.240690000000 114.5411956955 1
+    PT 66.336006000000 112.2823827070 1
+    PT 72.748410000000 111.1528963666 1
+    PT 73.828004000000 113.4116882086 1
   >
   <PROJBAY
   >
-  <TRACK '{8E144AE1-8B2E-4B42-B33B-80720DEDB3F3}'
-    NAME "PART DRUMS"
+  <TRACK '{5FE748B9-BF5B-4134-8A55-AAFA370A0A37}'
+    NAME "PART DRUMS - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -140,12 +140,12 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {8E144AE1-8B2E-4B42-B33B-80720DEDB3F3}
+    TRACKID {5FE748B9-BF5B-4134-8A55-AAFA370A0A37}
     PERF 0
     MIDIOUT -1
     <MIDINOTENAMES
-      0 127 "Cymbal Swells"
-      0 126 "Drum Roll"
+      0 127 "CYMBAL SWELLS"
+      0 126 "DRUM ROLL"
       0 125 "---"
       0 124 "DRUM FILL"
       0 123 "DRUM FILL"
@@ -215,7 +215,7 @@
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 42 878 554
+      WNDRECT 0 43 891 559
       SHOW 0
       LASTSEL 0
       DOCKED 0
@@ -225,30 +225,30 @@
         AAAQAAMBqgAAABAAAAA=
       >
       FLOATPOS 0 0 0 0
-      FXID {800EE5B6-2F40-41CF-91A4-78586FBD94D4}
+      FXID {F0F80B1A-4F2B-47E7-A108-5F7526F0C93F}
       WAK 0
     >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {6250C6E0-EA0A-4888-8743-51C6712E3D56}
-      IID 11
-      NAME "PART DRUMS"
+      IGUID {58AF93DB-D8B0-4326-9C57-F9EF8E36B4AF}
+      IID 1
+      NAME "PART DRUMS - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {FF43EFC0-483A-4A06-AD4F-FA4337EDD4C1}
+      GUID {15F4A3DD-133A-4E78-9D3B-7286EFA46AC2}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {E5A1DC60-D25B-44FF-9A26-B8117EA68BF4}
+        POOLEDEVTS {B57010B4-E99A-45C9-9DA6-0D165E3D88F6}
         <X 0 0
           /wNQQVJUIERSVU1T
         >
@@ -1497,21 +1497,21 @@
         <X 120 0
           /wFbaWRsZV9yZWFsdGltZV0=
         >
-        E 10920 b0 7b 00
-        GUID {5A3726D0-1F59-452D-9CA4-A6845CFAAB2D}
+        E 10919 b0 7b 00
+        GUID {19CCC011-72D3-4EE3-8124-F2194B313AD1}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 6
-        VELLANE 132 100 100
-        COLORMAP "C:\Program Files (x86)\REAPER\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW 69952.300480 134.382065 0 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 0 1364 744 0 2 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
-        EVTFILTER 0 -1 -1 100 114 0 0 1 0 -1.00000000 -1.00000000
+        SRCCOLOR 2
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -9814.301606 11.656449 0 12 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
+        EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{1E25762E-D44B-45EE-9971-C39A674D43C7}'
-    NAME "PART GUITAR"
+  <TRACK '{9B1780FB-68B1-40E6-BD38-45D50E455259}'
+    NAME "PART GUITAR - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -1529,12 +1529,12 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {1E25762E-D44B-45EE-9971-C39A674D43C7}
+    TRACKID {9B1780FB-68B1-40E6-BD38-45D50E455259}
     PERF 0
     MIDIOUT -1
     <MIDINOTENAMES
-      0 127 "Trill Marker"
-      0 126 "Tremolo Marker"
+      0 127 "TRILL MARKER"
+      0 126 "TREMOLO MARKER"
       0 125 "---"
       0 124 "BRE"
       0 123 "BRE"
@@ -1543,7 +1543,7 @@
       0 120 "BRE (use all 5)"
       0 119 "----"
       0 116 "OVERDRIVE"
-      0 111 "----"
+      0 115 "----"
       0 103 "Solo Marker"
       0 102 "Force HOPO Off"
       0 101 "Force HOPO On"
@@ -1552,7 +1552,7 @@
       0 98 "EXPERT Yellow"
       0 97 "EXPERT Red"
       0 96 "EXPERT Green"
-      0 91 "----"
+      0 95 "----"
       0 90 "Force HOPO Off"
       0 89 "Force HOPO On"
       0 88 "HARD Orange"
@@ -1560,42 +1560,34 @@
       0 86 "HARD Yellow"
       0 85 "HARD Red"
       0 84 "HARD Green"
-      0 80 "----"
+      0 77 "----"
       0 76 "MEDIUM Orange"
       0 75 "MEDIUM Blue"
       0 74 "MEDIUM Yellow"
       0 73 "MEDIUM Red"
       0 72 "MEDIUM Green"
-      0 68 "----"
+      0 65 "----"
       0 64 "EASY Orange"
       0 63 "EASY Blue"
       0 62 "EASY Yellow"
       0 61 "EASY Red"
       0 60 "EASY Green"
-      0 59 "Left Hand Highest (Fret 12)"
-      0 58 "-"
+      0 59 "Fret 12"
       0 57 "Fret 11"
       0 56 "Fret 10"
       0 55 "Fret 9"
-      0 54 "-"
       0 53 "Fret 8"
       0 52 "Fret 7"
-      0 51 "-"
       0 50 "Fret 6"
       0 49 "Fret 5"
-      0 48 "-"
       0 47 "Fret 4"
-      0 46 "-"
       0 45 "Fret 3"
-      0 44 "-"
       0 43 "Fret 2"
-      0 42 "-"
-      0 41 "-"
-      0 40 "Left Hand Lowest (Fret 1)"
+      0 40 "Fret 1"
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 42 878 554
+      WNDRECT 0 43 891 559
       SHOW 0
       LASTSEL 0
       DOCKED 0
@@ -1605,30 +1597,30 @@
         AAAQAAMAqgAAABAAAAA=
       >
       FLOATPOS 0 0 0 0
-      FXID {ECD5180E-DA4F-4DEB-97AE-945041D2FB04}
+      FXID {F9CC132E-55A9-4211-8FBE-17E05D181592}
       WAK 0
     >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {DB8DDDDD-A2B4-466B-9694-CC81AD555431}
-      IID 14
-      NAME "PART GUITAR"
+      IGUID {6FCAAF0F-B7AA-4FAB-AAEF-0D41E25F636A}
+      IID 2
+      NAME "PART GUITAR - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {BCD746A1-D24B-4A84-9D80-30E3A028A677}
+      GUID {32D99F90-42BD-4FD9-8C81-579018602FB4}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {24D3B289-F2B8-41F1-A2AA-9FB8AF89DA6D}
+        POOLEDEVTS {D4D1B382-059A-4093-A285-EA5974A453DC}
         <X 0 0
           /wNQQVJUIEdVSVRBUg==
         >
@@ -3117,21 +3109,21 @@
         <X 120 0
           /wFbaWRsZV9yZWFsdGltZV0=
         >
-        E 5640 b0 7b 00
-        GUID {7934F43B-5101-4246-9DBD-03A9FAB2BA67}
+        E 5639 b0 7b 00
+        GUID {2F178FCC-C7A6-41C8-AAA9-0C004880BE60}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 9
-        VELLANE 132 100 100
-        COLORMAP "C:\Program Files (x86)\REAPER\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW 38429.930891 138.533802 0 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 0 1364 744 0 2 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
-        EVTFILTER 0 -1 -1 100 114 0 0 1 0 -1.00000000 -1.00000000
+        SRCCOLOR 3
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -9814.301606 11.656449 0 12 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
+        EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{84B8FDE7-E9DA-4C47-8BAA-9B9189875625}'
-    NAME "PART BASS"
+  <TRACK '{D072AEA3-E9ED-4872-8C10-6C51D693E115}'
+    NAME "PART BASS - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -3149,12 +3141,12 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {84B8FDE7-E9DA-4C47-8BAA-9B9189875625}
+    TRACKID {D072AEA3-E9ED-4872-8C10-6C51D693E115}
     PERF 0
     MIDIOUT -1
     <MIDINOTENAMES
-      0 127 "Trill Marker"
-      0 126 "Tremolo Marker"
+      0 127 "TRILL MARKER"
+      0 126 "TREMOLO MARKER"
       0 125 "---"
       0 124 "BRE"
       0 123 "BRE"
@@ -3163,7 +3155,7 @@
       0 120 "BRE (use all 5)"
       0 119 "----"
       0 116 "OVERDRIVE"
-      0 111 "----"
+      0 115 "----"
       0 103 "Solo Marker"
       0 102 "Force HOPO Off"
       0 101 "Force HOPO On"
@@ -3172,7 +3164,7 @@
       0 98 "EXPERT Yellow"
       0 97 "EXPERT Red"
       0 96 "EXPERT Green"
-      0 91 "----"
+      0 95 "----"
       0 90 "Force HOPO Off"
       0 89 "Force HOPO On"
       0 88 "HARD Orange"
@@ -3180,38 +3172,30 @@
       0 86 "HARD Yellow"
       0 85 "HARD Red"
       0 84 "HARD Green"
-      0 80 "----"
+      0 77 "----"
       0 76 "MEDIUM Orange"
       0 75 "MEDIUM Blue"
       0 74 "MEDIUM Yellow"
       0 73 "MEDIUM Red"
       0 72 "MEDIUM Green"
-      0 68 "----"
+      0 65 "----"
       0 64 "EASY Orange"
       0 63 "EASY Blue"
       0 62 "EASY Yellow"
       0 61 "EASY Red"
       0 60 "EASY Green"
-      0 59 "Left Hand Highest (Fret 12)"
-      0 58 "-"
+      0 59 "Fret 12"
       0 57 "Fret 11"
       0 56 "Fret 10"
       0 55 "Fret 9"
-      0 54 "-"
       0 53 "Fret 8"
       0 52 "Fret 7"
-      0 51 "-"
       0 50 "Fret 6"
       0 49 "Fret 5"
-      0 48 "-"
       0 47 "Fret 4"
-      0 46 "-"
       0 45 "Fret 3"
-      0 44 "-"
       0 43 "Fret 2"
-      0 42 "-"
-      0 41 "-"
-      0 40 "Left Hand Lowest (Fret 1)"
+      0 40 "Fret 1"
     >
     MAINSEND 1 0
     <FXCHAIN
@@ -3222,24 +3206,27 @@
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {73C7A0D4-AC21-4971-BAE0-EEBE51977A2D}
-      IID 16
-      NAME "PART BASS"
+      IGUID {9AD6D39E-9AE8-49CD-BBEA-A3E5179DC8AF}
+      IID 3
+      NAME "PART BASS - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {B4679BF1-9AB3-4B9F-ADE2-7FD3AD035742}
+      GUID {6B03FD62-CFF6-40E7-B29C-B41A28B83E5A}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {97BFD352-DCED-47CE-80D5-D5404663AB8C}
+        POOLEDEVTS {1416532C-CC71-40EC-AC7F-9EA7466B619B}
+        <X 0 0
+          /wNQQVJUIEJBU1M=
+        >
         <X 5760 0
           /wFbbWFwIFN0cnVtTWFwX1BpY2td
         >
@@ -3704,7 +3691,7 @@
         E 0 90 48 60
         E 0 90 54 60
         E 0 90 60 60
-        <X 5760 0
+        <X 5759 0
           /wFbaWRsZV9yZWFsdGltZV0=
         >
         E 0 80 2b 00
@@ -3713,27 +3700,27 @@
         E 0 80 54 00
         E 0 80 60 00
         E 5760 b0 7b 00
-        GUID {E3CAAE04-B36A-4735-9087-EBF2F5BB3A59}
+        GUID {99D8584E-CFFF-4380-ADD8-0169281C4532}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 11
-        VELLANE 132 100 100
-        COLORMAP "C:\Users\Ruggery\AppData\Roaming\Reaper\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW 37545.875622 132.360388 0 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 0 1364 744 0 2 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
-        EVTFILTER 0 -1 -1 100 114 0 0 1 0 -1.00000000 -1.00000000
+        SRCCOLOR 4
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -9814.301606 11.656449 0 12 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
+        EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{CBEF5BD7-CDE4-4F9F-BA4C-F13EC7F56FB6}'
-    NAME "PART VOCALS"
+  <TRACK '{0B57973D-C4FD-4F60-88A6-53C3E1306831}'
+    NAME "PART VOCALS - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
     VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
     MUTESOLO 0 0 0
     IPHASE 0
-    ISBUS 0 0
+    ISBUS 1 1
     BUSCOMP 0 0
     SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
     FREEMODE 0
@@ -3743,16 +3730,20 @@
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
-    FX 0
-    TRACKID {CBEF5BD7-CDE4-4F9F-BA4C-F13EC7F56FB6}
+    FX 1
+    TRACKID {0B57973D-C4FD-4F60-88A6-53C3E1306831}
     PERF 0
     MIDIOUT -1
     <MIDINOTENAMES
       0 116 "OVERDRIVE"
+      0 115 "----"
       0 105 "Phrase Marker"
+      0 104 "----"
+      0 97 "Non-Displayed Percussion"
+      0 96 "Displayed Percussion"
       0 95 "----"
-      0 84 "UNUSED C5 Note"
-      0 83 "Highest Note B4"
+      0 84 "C6 (Unused Highest Note)"
+      0 83 "B5"
       0 82 "A#4"
       0 81 "A4"
       0 80 "G#4"
@@ -3774,7 +3765,7 @@
       0 64 "E3"
       0 63 "D#3"
       0 62 "D3"
-      0 61 "C##"
+      0 61 "C#3"
       0 60 "C3"
       0 59 "B2"
       0 58 "A#2"
@@ -3806,48 +3797,31 @@
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 42 655 462
       SHOW 0
-      LASTSEL 1
+      LASTSEL 0
       DOCKED 0
-      BYPASS 0 0
-      <JS "MIDI/midi_note_filter" ""
-        36.000000 84.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-      >
-      FLOATPOS 0 0 0 0
-      FXID {36297925-D9AB-4D28-92CB-60AA5C8902CD}
-      WAK 0
-      BYPASS 0 0
-      <VST "VSTi: ReaSynth (Cockos)" "reasynth.dll" 0 ""
-        eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAA==
-        AAAQAO++rd4N8K3eppvEOxe30ToAAIA/AAAAAAAAAADMm4A+6WeIPQ==
-        AAAAAAAAAD8AAIA/AACAPwAAAD8AABAAAAA=
-      >
-      FLOATPOS 0 0 0 0
-      FXID {845651AE-9DB7-40C2-AEC2-0ADF78FDF790}
-      WAK 0
     >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {61B6ED88-00CE-4908-BFCA-546E1E1928BA}
-      IID 3
-      NAME "PART VOCALS"
+      IGUID {F5B091D0-FC8D-44A4-BB23-C82A3A164F30}
+      IID 4
+      NAME "PART VOCALS - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {19D8C11F-A91D-4692-A9F7-CFB63F163005}
+      GUID {11A442EE-8F5A-4260-AC9B-8EC2997F9827}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {2B67E576-58BE-42F4-BC54-22EB4D75D3F2}
+        POOLEDEVTS {3ED37105-000B-4AC9-80F3-BC8FE741B44F}
         <X 0 0
           /wNQQVJUIFZPQ0FMUw==
         >
@@ -3910,7 +3884,7 @@
           /wVnb25l
         >
         E 0 90 32 60
-        E 55 80 32 00 -25
+        E 55 80 32 00
         <X 65 0
           /wUr
         >
@@ -4191,22 +4165,22 @@
         >
         E 0 90 40 60
         E 2040 80 40 00
-        E 360 80 69 00
+        E 359 80 69 00
         E 12960 b0 7b 00
-        GUID {77D67B79-C949-4927-8EB9-3117C6AB06B8}
+        GUID {E2C34BE7-EA74-4E0A-8C0C-696211C11AEF}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 1
-        VELLANE 132 100 100
-        COLORMAP "C:\Program Files (x86)\REAPER\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW -5567.466302 12.486829 0 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.06250000 -8 -8 1364 736 0 2 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
+        SRCCOLOR 5
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -5511.107825 11.656449 0 12 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{F34B8613-9A4C-43AC-9C69-2F186EC4E797}'
-    NAME "HARM1"
+  <TRACK '{BE2D3C92-FF99-4E4F-9513-01A82A7FC5E3}'
+    NAME "HARM1 - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -4224,15 +4198,16 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 0
-    TRACKID {F34B8613-9A4C-43AC-9C69-2F186EC4E797}
+    TRACKID {BE2D3C92-FF99-4E4F-9513-01A82A7FC5E3}
     PERF 0
     MIDIOUT -1
     <MIDINOTENAMES
       0 116 "OVERDRIVE"
+      0 115 "----"
       0 105 "Phrase Marker"
-      0 95 "----"
-      0 84 "UNUSED C5 Note"
-      0 83 "Highest Note B4"
+      0 104 "----"
+      0 84 "C6 (Unused Highest Note)"
+      0 83 "B5"
       0 82 "A#4"
       0 81 "A4"
       0 80 "G#4"
@@ -4254,7 +4229,7 @@
       0 64 "E3"
       0 63 "D#3"
       0 62 "D3"
-      0 61 "C##"
+      0 61 "C#3"
       0 60 "C3"
       0 59 "B2"
       0 58 "A#2"
@@ -4286,7 +4261,7 @@
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 42 655 462
+      WNDRECT 0 43 655 467
       SHOW 0
       LASTSEL 1
       DOCKED 0
@@ -4295,7 +4270,7 @@
         36.000000 84.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
-      FXID {36297925-D9AB-4D28-92CB-60AA5C8902CD}
+      FXID {3325FAA1-5170-4FD7-8FA9-98E9530ABD54}
       WAK 0
       BYPASS 0 0
       <VST "VSTi: ReaSynth (Cockos)" "reasynth.dll" 0 ""
@@ -4304,30 +4279,30 @@
         AAAAAAAAAD8AAIA/AACAPwAAAD8AABAAAAA=
       >
       FLOATPOS 0 0 0 0
-      FXID {845651AE-9DB7-40C2-AEC2-0ADF78FDF790}
+      FXID {CD437192-BB53-4709-9C9E-F6374C325215}
       WAK 0
     >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {0118373C-BF07-476F-832C-E4CC09CCE011}
-      IID 3
-      NAME "HARM1"
+      IGUID {12FF9858-7FFD-4CBA-9FBB-6B9408CADE38}
+      IID 5
+      NAME "HARM1 - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {2B1B5397-52E6-4C1F-852E-8AE74C990021}
+      GUID {FCC543DC-6442-480A-9F15-1F8FC88C80B8}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {7156C021-435D-47D6-9B0B-201C885C2DF3}
+        POOLEDEVTS {8A13FEA5-FE49-4556-AA20-7EFA40C5490F}
         <X 0 0
           /wNIQVJNMQ==
         >
@@ -4336,285 +4311,285 @@
         <X 90 0
           /wVUaGU=
         >
-        e 0 90 2b 60
-        e 150 80 2b 00
+        E 0 90 2b 60
+        E 150 80 2b 00
         <X 90 0
           /wVhbi0=
         >
-        e 0 90 30 60
-        e 300 80 30 00
+        E 0 90 30 60
+        E 300 80 30 00
         <X 120 0
           /wVnZWxz
         >
-        e 0 90 30 60
-        e 210 80 30 00
+        E 0 90 30 60
+        E 210 80 30 00
         <X 150 0
           /wVoYXZl
         >
-        e 0 90 32 60
-        e 210 80 32 00
+        E 0 90 32 60
+        E 210 80 32 00
         <X 150 0
           /wVnb25l
         >
-        e 0 90 34 60
-        e 360 80 34 00
+        E 0 90 34 60
+        E 360 80 34 00
         <X 90 0
           /wUr
         >
-        e 0 90 37 60
-        e 990 80 37 00
+        E 0 90 37 60
+        E 990 80 37 00
         E 450 80 69 00
         E 0 80 74 00
         E 0 90 69 60
         <X 480 0
           /wVUaGU=
         >
-        e 0 90 32 60
-        e 120 80 32 00
+        E 0 90 32 60
+        E 120 80 32 00
         <X 120 0
           /wVzb25ncw==
         >
-        e 0 90 34 60
-        e 150 80 34 00
+        E 0 90 34 60
+        E 150 80 34 00
         <X 90 0
           /wUr
         >
-        e 0 90 32 60
-        e 120 80 32 00
+        E 0 90 32 60
+        E 120 80 32 00
         <X 120 0
           /wVoYXZl
         >
-        e 0 90 32 60
-        e 150 80 32 00
+        E 0 90 32 60
+        E 150 80 32 00
         <X 90 0
           /wVnb25l
         >
-        e 0 90 32 60
-        e 55 80 32 00 -25
+        E 0 90 32 60
+        E 55 80 32 00
         <X 65 0
           /wUr
         >
-        e 0 90 34 60
-        e 180 80 34 00
+        E 0 90 34 60
+        E 180 80 34 00
         <X 180 0
           /wVzaS0=
         >
-        e 0 90 32 60
-        e 150 80 32 00
+        E 0 90 32 60
+        E 150 80 32 00
         <X 60 0
           /wUr
         >
-        e 0 90 30 60
-        e 210 80 30 00
+        E 0 90 30 60
+        E 210 80 30 00
         <X 60 0
           /wVsZW50
         >
-        e 0 90 2d 60
-        e 390 80 2d 00
+        E 0 90 2d 60
+        E 390 80 2d 00
         E 90 80 69 00
         E 1440 90 69 60
         E 0 90 74 60
         <X 240 0
           /wVZb3UncmU=
         >
-        e 0 90 2d 60
-        e 90 80 2d 00
+        E 0 90 2d 60
+        E 90 80 2d 00
         <X 150 0
           /wVzaW5rLQ==
         >
-        e 0 90 30 60
-        e 120 80 30 00
+        E 0 90 30 60
+        E 120 80 30 00
         <X 120 0
           /wVpbic=
         >
-        e 0 90 30 60
-        e 120 80 30 00
+        E 0 90 30 60
+        E 120 80 30 00
         <X 120 0
           /wVsaWtl
         >
-        e 0 90 32 60
-        e 90 80 32 00
+        E 0 90 32 60
+        E 90 80 32 00
         <X 150 0
           /wVh
         >
-        e 0 90 30 60
-        e 90 80 30 00
+        E 0 90 30 60
+        E 90 80 30 00
         <X 150 0
           /wVzdG9uZQ==
         >
-        e 0 90 2b 60
-        e 660 80 2b 00
+        E 0 90 2b 60
+        E 660 80 2b 00
         E 300 80 69 00
         E 0 80 74 00
         E 480 90 69 60
         <X 210 0
           /wVCZS0=
         >
-        e 0 90 2b 60
-        e 120 80 2b 00
+        E 0 90 2b 60
+        E 120 80 2b 00
         <X 120 0
           /wVmb3Jl
         >
-        e 0 90 2b 60
-        e 540 80 2b 00
+        E 0 90 2b 60
+        E 540 80 2b 00
         <X 1140 0
           /wV0aGU=
         >
-        e 0 90 2b 60
-        e 90 80 2b 00
+        E 0 90 2b 60
+        E 90 80 2b 00
         <X 150 0
           /wV0aWRl
         >
-        e 0 90 2b 60
-        e 600 80 2b 00
+        E 0 90 2b 60
+        E 600 80 2b 00
         E 390 80 69 00
         E 1200 90 69 60
         <X 210 0
           /wVUaGU=
         >
-        e 0 90 2b 60
-        e 90 80 2b 00
+        E 0 90 2b 60
+        E 90 80 2b 00
         <X 150 0
           /wVyaXYt
         >
-        e 0 90 30 60
-        e 150 80 30 00
+        E 0 90 30 60
+        E 150 80 30 00
         <X 120 0
           /wVlcg==
         >
-        e 0 90 30 60
-        e 90 80 30 00
+        E 0 90 30 60
+        E 90 80 30 00
         <X 90 0
           /wVydW5z
         >
-        e 0 90 32 60
-        e 540 80 32 00
+        E 0 90 32 60
+        E 540 80 32 00
         <X 240 0
           /wVjb2xk
         >
-        e 0 90 32 60
-        e 30 80 32 00
+        E 0 90 32 60
+        E 30 80 32 00
         <X 30 0
           /wUr
         >
-        e 0 90 34 60
-        e 900 80 34 00
+        E 0 90 34 60
+        E 900 80 34 00
         <X 930 0
           /wUr
         >
-        e 0 90 32 60
-        e 420 80 32 00
+        E 0 90 32 60
+        E 420 80 32 00
         E 90 80 69 00
         E 0 90 69 60
         E 0 90 74 60
         <X 210 0
           /wVUaGU=
         >
-        e 0 90 32 60
-        e 120 80 32 00
+        E 0 90 32 60
+        E 120 80 32 00
         <X 150 0
           /wVmaWdodA==
         >
-        e 0 90 34 60
-        e 180 80 34 00
+        E 0 90 34 60
+        E 180 80 34 00
         <X 60 0
           /wUr
         >
-        e 0 90 32 60
-        e 180 80 32 00
+        E 0 90 32 60
+        E 180 80 32 00
         <X 300 0
           /wVpcw==
         >
-        e 0 90 30 60
-        e 120 80 30 00
+        E 0 90 30 60
+        E 120 80 30 00
         <X 120 0
           /wVvLQ==
         >
-        e 0 90 32 60
-        e 300 80 32 00
+        E 0 90 32 60
+        E 300 80 32 00
         <X 180 0
           /wV2ZXI=
         >
-        e 0 90 32 60
-        e 270 80 32 00
+        E 0 90 32 60
+        E 270 80 32 00
         E 210 80 69 00
         E 0 80 74 00
         E 1920 90 69 60
         <X 420 0
           /wVTdGlsbA==
         >
-        e 0 90 3c 60
-        e 180 80 3c 00
+        E 0 90 3c 60
+        E 180 80 3c 00
         <X 60 0
           /wV0aGU=
         >
-        e 0 90 39 60
-        e 120 80 39 00
+        E 0 90 39 60
+        E 120 80 39 00
         <X 150 0
           /wVoYXVudC0=
         >
-        e 0 90 37 60
-        e 390 80 37 00
+        E 0 90 37 60
+        E 390 80 37 00
         <X 120 0
           /wVlZA==
         >
-        e 0 90 37 60
-        e 60 80 37 00
+        E 0 90 37 60
+        E 60 80 37 00
         <X 120 0
           /wVydS0=
         >
-        e 0 90 3c 60
-        e 210 80 3c 00
+        E 0 90 3c 60
+        E 210 80 3c 00
         <X 60 0
           /wVpbnM=
         >
-        e 0 90 3c 60
-        e 240 80 3c 00
+        E 0 90 3c 60
+        E 240 80 3c 00
         <X 180 0
           /wVvZg==
         >
-        e 0 90 3c 60
-        e 120 80 3c 00
+        E 0 90 3c 60
+        E 120 80 3c 00
         <X 150 0
           /wVuaWdodA==
         >
-        e 0 90 3c 60
-        e 30 80 3c 00
+        E 0 90 3c 60
+        E 30 80 3c 00
         <X 30 0
           /wUr
         >
-        e 0 90 3e 60
-        e 270 80 3e 00
+        E 0 90 3e 60
+        E 270 80 3e 00
         E 210 90 01 60
         E 60 80 01 00
         <X 330 0
           /wVjYWxsIw==
         >
-        e 0 90 40 60
-        e 330 80 40 00
+        E 0 90 40 60
+        E 330 80 40 00
         <X 120 0
           /wV5b3Vy
         >
-        e 0 90 2d 60
-        e 90 80 2d 00
+        E 0 90 2d 60
+        E 90 80 2d 00
         <X 180 0
           /wVuYW1l
         >
-        e 0 90 30 60
-        e 2250 80 30 00
+        E 0 90 30 60
+        E 2250 80 30 00
         E 240 80 69 00
         E 0 90 69 60
         E 0 90 74 60
         <X 480 0
           /wVVaF4=
         >
-        e 0 90 30 60
-        e 300 80 30 00
+        E 0 90 30 60
+        E 300 80 30 00
         <X 660 0
           /wVvd14=
         >
-        e 0 90 40 60
-        e 330 80 40 00
+        E 0 90 40 60
+        E 330 80 40 00
         E 30 80 69 00
         E 0 80 74 00
         E 0 90 69 60
@@ -4626,26 +4601,26 @@
         E 960 90 69 60
         E 6720 80 69 00
         E 960 90 69 60
-        E 6720 80 69 00
+        E 6719 80 69 00
         E 12960 b0 7b 00
-        GUID {77D67B79-C949-4927-8EB9-3117C6AB06B8}
+        GUID {1F28C0F5-4BC1-4D5A-AC22-EAD88E595629}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 1
-        VELLANE 132 100 100
-        COLORMAP "C:\Program Files (x86)\REAPER\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW -5567.466302 12.486829 16 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.06250000 -8 -8 1364 736 0 2 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
+        SRCCOLOR 6
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -5511.107825 11.656449 0 12 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{6F75C115-B275-4A99-B585-F17D49CF23D0}'
-    NAME "HARM2"
+  <TRACK '{70A6C118-CF41-42B4-884B-B5242ACE0E1F}'
+    NAME "HARM2 - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1.00000000000000 -0.60600000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
     MUTESOLO 0 0 0
     IPHASE 0
     ISBUS 0 0
@@ -4659,14 +4634,14 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 0
-    TRACKID {6F75C115-B275-4A99-B585-F17D49CF23D0}
+    TRACKID {70A6C118-CF41-42B4-884B-B5242ACE0E1F}
     PERF 0
     MIDIOUT -1
     <MIDINOTENAMES
       0 105 "Phrase Marker"
-      0 95 "----"
-      0 84 "UNUSED C5 Note"
-      0 83 "Highest Note B4"
+      0 104 "----"
+      0 84 "C6 (Unused Highest Note)"
+      0 83 "B5"
       0 82 "A#4"
       0 81 "A4"
       0 80 "G#4"
@@ -4688,7 +4663,7 @@
       0 64 "E3"
       0 63 "D#3"
       0 62 "D3"
-      0 61 "C##"
+      0 61 "C#3"
       0 60 "C3"
       0 59 "B2"
       0 58 "A#2"
@@ -4717,7 +4692,7 @@
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 42 655 462
+      WNDRECT 0 43 655 467
       SHOW 0
       LASTSEL 1
       DOCKED 0
@@ -4726,7 +4701,7 @@
         36.000000 84.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
-      FXID {F6E0DBF3-4FB0-4877-8824-9066F1D058D1}
+      FXID {4F2F6D70-B100-4CF8-B342-5115CC7628DF}
       WAK 0
       BYPASS 0 0
       <VST "VSTi: ReaSynth (Cockos)" "reasynth.dll" 0 ""
@@ -4735,30 +4710,30 @@
         AAAAAAAAAD8AAIA/AACAPwAAAD8AABAAAAA=
       >
       FLOATPOS 0 0 0 0
-      FXID {F0A8D5A5-6A8F-4AD5-9013-0C5E55E2A2B3}
+      FXID {2C6EA18A-8741-45FF-8D33-01C6BDE74EF7}
       WAK 0
     >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {890E34DD-B042-4A29-9EC5-5C22DBB42A88}
-      IID 8
-      NAME "HARM2"
+      IGUID {A36DA4DC-8237-410C-9C67-F6DB1E78D50E}
+      IID 6
+      NAME "HARM2 - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {60196E9A-EFD4-4987-B8CB-3A41F3647F8A}
+      GUID {013811A4-B65F-4E8E-8948-4AC2429C6464}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {1AAA492B-F2E1-4473-B773-DA01AEE433DB}
+        POOLEDEVTS {E5603C64-906D-4CFA-B5FF-B02BB9D0D592}
         <X 0 0
           /wNIQVJNMg==
         >
@@ -4766,93 +4741,144 @@
         <X 120 0
           /wVBaA==
         >
-        e 0 90 40 60
-        e 3480 80 40 00
+        E 0 90 40 60
+        E 3480 80 40 00
         <X 360 0
           /wUr
         >
-        e 0 90 3e 60
-        e 1920 80 3e 00
+        E 0 90 3e 60
+        E 1920 80 3e 00
         E 480 80 69 00
         E 960 90 69 60
         <X 480 0
           /wVBaA==
         >
-        e 0 90 40 60
-        e 3600 80 40 00
+        E 0 90 40 60
+        E 3600 80 40 00
         <X 240 0
           /wUr
         >
-        e 0 90 41 60
-        e 2100 80 41 00
+        E 0 90 41 60
+        E 2100 80 41 00
         E 300 80 69 00
         E 960 90 69 60
         <X 480 0
           /wVBaA==
         >
-        e 0 90 40 60
-        e 3480 80 40 00
+        E 0 90 40 60
+        E 3480 80 40 00
         <X 360 0
           /wUr
         >
-        e 0 90 3e 60
-        e 1920 80 3e 00
+        E 0 90 3e 60
+        E 1920 80 3e 00
         E 480 80 69 00
         E 960 90 69 60
         <X 480 0
           /wVBaA==
         >
-        e 0 90 40 60
-        e 1740 80 40 00
+        E 0 90 40 60
+        E 1740 80 40 00
         <X 180 0
           /wUr
         >
-        e 0 90 3e 60
-        e 1800 80 3e 00
+        E 0 90 3e 60
+        E 1800 80 3e 00
         <X 120 0
           /wUr
         >
-        e 0 90 40 60
-        e 2040 80 40 00
-        E 360 80 69 00
+        E 0 90 40 60
+        E 2040 80 40 00
+        E 359 80 69 00
         E 12960 b0 7b 00
-        GUID {96B45885-74FC-4D02-9A5A-EAE13ECE9C9D}
+        GUID {A3E2BBF2-B187-4AA1-917F-12C05D0812BC}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 3
-        VELLANE 132 100 100
-        COLORMAP "C:\Program Files (x86)\REAPER\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW -5567.466302 12.486829 0 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.12500000 -8 -8 1364 736 0 2 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
+        SRCCOLOR 7
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -5511.107825 11.656449 0 12 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{E10DFCF2-1276-4EC4-8929-3D3B7B849BD4}'
-    NAME "HARM3"
+  <TRACK '{EA89E2B0-50A6-4994-A6BB-E804C8092D4D}'
+    NAME "HARM3 - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
-    VOLPAN 1.00000000000000 0.60400000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
+    VOLPAN 1.00000000000000 0.00000000000000 -1.00000000000000 -1.00000000000000 1.00000000000000
     MUTESOLO 0 0 0
     IPHASE 0
-    ISBUS 0 0
+    ISBUS 2 -1
     BUSCOMP 0 0
     SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 0
-    TRACKID {E10DFCF2-1276-4EC4-8929-3D3B7B849BD4}
+    TRACKID {EA89E2B0-50A6-4994-A6BB-E804C8092D4D}
     PERF 0
     MIDIOUT -1
+    <MIDINOTENAMES
+      0 84 "C6 (Unused Highest Note)"
+      0 83 "B5"
+      0 82 "A#4"
+      0 81 "A4"
+      0 80 "G#4"
+      0 79 "G4"
+      0 78 "F#4"
+      0 77 "F4"
+      0 76 "E4"
+      0 75 "D#4"
+      0 74 "D4"
+      0 73 "C#4"
+      0 72 "C4"
+      0 71 "B3"
+      0 70 "A#3"
+      0 69 "A3"
+      0 68 "G#3"
+      0 67 "G3"
+      0 66 "F#3"
+      0 65 "F3"
+      0 64 "E3"
+      0 63 "D#3"
+      0 62 "D3"
+      0 61 "C#3"
+      0 60 "C3"
+      0 59 "B2"
+      0 58 "A#2"
+      0 57 "A2"
+      0 56 "G#2"
+      0 55 "G2"
+      0 54 "F#2"
+      0 53 "F2"
+      0 52 "E2"
+      0 51 "D#2"
+      0 50 "D2"
+      0 49 "C#2"
+      0 48 "C2"
+      0 47 "B1"
+      0 46 "A#1"
+      0 45 "A1"
+      0 44 "G#1"
+      0 43 "G1"
+      0 42 "F#1"
+      0 41 "F1"
+      0 40 "E1"
+      0 39 "D#1"
+      0 38 "D1"
+      0 37 "C#1"
+      0 36 "Lowest Note C1"
+    >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 42 655 462
+      WNDRECT 0 43 655 467
       SHOW 0
       LASTSEL 1
       DOCKED 0
@@ -4861,7 +4887,7 @@
         36.000000 84.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
-      FXID {F6E0DBF3-4FB0-4877-8824-9066F1D058D1}
+      FXID {74E0EA5D-8548-42E7-A8AB-D503FC4B01AC}
       WAK 0
       BYPASS 0 0
       <VST "VSTi: ReaSynth (Cockos)" "reasynth.dll" 0 ""
@@ -4870,30 +4896,30 @@
         AAAAAAAAAD8AAIA/AACAPwAAAD8AABAAAAA=
       >
       FLOATPOS 0 0 0 0
-      FXID {F0A8D5A5-6A8F-4AD5-9013-0C5E55E2A2B3}
+      FXID {FDDCDA32-E678-4B19-ACD7-6AF9A44E792C}
       WAK 0
     >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {890E34DD-B042-4A29-9EC5-5C22DBB42A88}
-      IID 8
-      NAME "HARM3"
+      IGUID {118DA688-7025-4987-9354-A8F096F314C6}
+      IID 7
+      NAME "HARM3 - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {60196E9A-EFD4-4987-B8CB-3A41F3647F8A}
+      GUID {589E3C90-2654-4F33-BD85-CFC587A6EFA9}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {347B3F8D-20E6-46F9-9432-0ACF76FCE004}
+        POOLEDEVTS {EC16B548-50D0-42D7-93C7-E75647C94C67}
         <X 0 0
           /wNIQVJNMw==
         >
@@ -4921,11 +4947,11 @@
           /wVBaA==
         >
         E 0 90 3c 60
-        E 1740 80 3c 00 -1
+        E 1740 80 3c 00
         <X 180 0
           /wUr
         >
-        E 0 90 3b 60 -1
+        E 0 90 3b 60
         E 1680 80 3b 00
         <X 240 0
           /wUr
@@ -4947,21 +4973,21 @@
         >
         E 0 90 3c 60
         E 2040 80 3c 00
-        E 13320 b0 7b 00
-        GUID {96B45885-74FC-4D02-9A5A-EAE13ECE9C9D}
+        E 13319 b0 7b 00
+        GUID {6780C399-06E2-4226-A003-CE04533AFCB7}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 3
-        VELLANE 132 100 100
-        COLORMAP "C:\Program Files (x86)\REAPER\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW -3946.558391 12.486829 51 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.12500000 -8 -8 1364 736 0 0 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
+        SRCCOLOR 8
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -5511.107825 11.656449 24 12 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{282E0B52-91A7-495C-9E98-56E1AE946595}'
-    NAME "PART REAL_BASS"
+  <TRACK '{28DC7421-F62F-4EA7-8DC3-B8524FDB5B31}'
+    NAME "PART REAL_BASS - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -4979,7 +5005,7 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 0
-    TRACKID {282E0B52-91A7-495C-9E98-56E1AE946595}
+    TRACKID {28DC7421-F62F-4EA7-8DC3-B8524FDB5B31}
     PERF 0
     MIDIOUT -1
     <MIDINOTENAMES
@@ -4995,8 +5021,9 @@
       0 116 "OVERDRIVE"
       0 115 "Solo Marker"
       0 109 "-----------"
-      0 108 "Left Hand Position"
+      0 108 "Fret Hand Position"
       0 107 "Force Chord Numbering"
+      0 106 "Loose Strumming"
       0 105 "Strum Direction"
       0 104 "Arpeggio Marker"
       0 103 "Slide Marker"
@@ -5008,6 +5035,7 @@
       0 97 "EXPERT A String"
       0 96 "EXPERT E String"
       0 95 "-----------"
+      0 82 "Loose Strumming"
       0 81 "Strum Direction"
       0 80 "Arpeggio Marker"
       0 79 "Slide Marker"
@@ -5019,6 +5047,7 @@
       0 73 "HARD A String"
       0 72 "HARD E String"
       0 71 "-----------"
+      0 58 "Loose Strumming"
       0 56 "Arpeggio Marker"
       0 55 "Slide Marker"
       0 53 "MEDIUM e String"
@@ -5055,55 +5084,55 @@
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 42 716 462
+      WNDRECT 0 43 655 467
       SHOW 0
-      LASTSEL 0
+      LASTSEL 2
       DOCKED 0
       BYPASS 0 0
       <JS "c3/progtr" ""
-        0.000000 3.000000 -2.000000 -2.000000 -2.000000 -2.000000 -2.000000 -4.000000 0.000000 1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+        0.000000 3.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
-      FXID {3520AB1A-5BF7-451B-9D16-18CB124B3420}
+      FXID {1B501E9B-D430-4727-AA20-3287A303B236}
       WAK 0
       BYPASS 0 0
       <JS "MIDI/midi_transpose" ""
         -12.000000 1.000000 0.000000 127.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
-      FXID {9AA4189C-A2B3-4EB1-8E11-CA96F0FAA3FB}
+      FXID {D65C3AA7-BF83-494D-8477-DD81FC48E857}
       WAK 0
       BYPASS 0 0
       <VST "VSTi: ReaSynth (Cockos)" "reasynth.dll" 0 ""
         eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAA==
-        AAAQAO++rd4N8K3eppvEO+gJMjwtsh0/AAAAAAAAgD8AAIA/4jAEPA==
+        AAAQAO++rd4N8K3eppvEO+gJMjwAAAAAAAAAAAAAgD8AAIA/4jAEPA==
         AAAAAAAAAD+01hM+j8L1PQAAAD8AABAAAAA=
       >
       FLOATPOS 0 0 0 0
-      FXID {AFFCEE3F-81E7-48D1-BFEC-82DD70FF012F}
+      FXID {6C9B99E9-27FD-47D6-9EFE-00688705442B}
       WAK 0
     >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {A4909BBC-B8C0-4275-BC28-5FF3E26455B6}
-      IID 15
-      NAME "PART REAL_BASS"
+      IGUID {2409F852-007D-482F-8E0D-F0FB9CF214EB}
+      IID 8
+      NAME "PART REAL_BASS - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {1E9EB4A8-B5B1-41B5-993E-987E9BA23649}
+      GUID {0327AD14-43DB-45DD-AFC6-8DFD0272029D}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {2B015C7C-D3E7-446C-BC85-81E86CB6B402}
+        POOLEDEVTS {56D548DF-0D8F-4748-8D7E-F578F31CC590}
         <X 0 0
           /wNQQVJUIFJFQUxfQkFTUw==
         >
@@ -5595,29 +5624,28 @@
         E 0 90 30 64
         E 0 90 48 64
         E 0 90 60 64
-        E 5759 80 18 00
-        E 0 80 30 00
-        E 0 80 48 00
-        <X 1 0
+        <X 5759 0
           /wFbZW5kX3BiIHNvbmdfdHJhaW5lcl9wYl80XQ==
         >
+        E 0 80 18 00
+        E 0 80 30 00
+        E 0 80 48 00
         E 0 80 60 00
         E 5760 b0 7b 00
-        GUID {88C98939-EC46-40E1-BB77-903CE8C2E78E}
+        GUID {68B6C271-EBC3-4CBB-B399-DF1FC18A0541}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 10
-        VELLANE 132 100 100
-        COLORMAP "C:\Users\Ruggery\AppData\Roaming\Reaper\Data\color_maps\rockband_proguitarbass.png"
-        TEXTSTRINGFILE "C:\Program Files (x86)\REAPER\Data\Text_Strings\Text Events List - Pro Trainers.txt"
-        CFGEDITVIEW 34793.171542 132.360388 26 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.12500000 -8 0 1364 744 0 2 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
+        SRCCOLOR 9
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -5511.107825 11.656449 7 12 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{4C28B6E6-75E1-4D85-8E08-C083874FBCB6}'
-    NAME "PART REAL_GUITAR"
+  <TRACK '{D9203D15-2ACF-4089-A61A-27A07EEB4B67}'
+    NAME "PART REAL_GUITAR - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -5635,7 +5663,7 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 0
-    TRACKID {4C28B6E6-75E1-4D85-8E08-C083874FBCB6}
+    TRACKID {D9203D15-2ACF-4089-A61A-27A07EEB4B67}
     PERF 0
     MIDIOUT -1
     <MIDINOTENAMES
@@ -5651,8 +5679,9 @@
       0 116 "OVERDRIVE"
       0 115 "Solo Marker"
       0 109 "-----------"
-      0 108 "Left Hand Position"
+      0 108 "Fret Hand Position"
       0 107 "Force Chord Numbering"
+      0 106 "Loose Strumming"
       0 105 "Strum Direction"
       0 104 "Arpeggio Marker"
       0 103 "Slide Marker"
@@ -5663,23 +5692,8 @@
       0 98 "EXPERT D String"
       0 97 "EXPERT A String"
       0 96 "EXPERT E String"
-      0 21 "-----------"
-      0 18 "Flat/Sharp Swap"
-      0 17 "Hide Chord Names"
-      0 16 "Slash Chord"
-      0 15 "D#"
-      0 14 "D"
-      0 13 "C#"
-      0 12 "C"
-      0 11 "B"
-      0 10 "A#"
-      0 9 "A"
-      0 8 "G#"
-      0 7 "G"
-      0 6 "F#"
-      0 5 "F"
-      0 4 "E"
       0 95 "-----------"
+      0 82 "Loose Strumming"
       0 81 "Strum Direction"
       0 80 "Arpeggio Marker"
       0 79 "Slide Marker"
@@ -5691,6 +5705,7 @@
       0 73 "HARD A String"
       0 72 "HARD E String"
       0 71 "-----------"
+      0 58 "Loose Strumming"
       0 56 "Arpeggio Marker"
       0 55 "Slide Marker"
       0 53 "MEDIUM e String"
@@ -5708,79 +5723,26 @@
       0 26 "EASY D String"
       0 25 "EASY A String"
       0 24 "EASY E String"
-      14 127 "Trill Marker"
-      14 126 "Tremolo Marker"
-      14 125 "BRE"
-      14 124 "BRE"
-      14 123 "BRE"
-      14 122 "BRE"
-      14 121 "BRE"
-      14 120 "BRE (use all 6)"
-      14 119 "-----------"
-      14 116 "OVERDRIVE"
-      14 115 "Solo Marker"
-      14 109 "-----------"
-      14 108 "Left Hand Position"
-      14 107 "Force Chord Numbering"
-      14 105 "Strum Direction"
-      14 104 "Arpeggio Marker"
-      14 103 "Slide Marker"
-      14 102 "Force HOPO"
-      14 101 "EXPERT e String"
-      14 100 "EXPERT B String"
-      14 99 "EXPERT G String"
-      14 98 "EXPERT D String"
-      14 97 "EXPERT A String"
-      14 96 "EXPERT E String"
-      14 95 "-----------"
-      14 81 "Strum Direction"
-      14 80 "Arpeggio Marker"
-      14 79 "Slide Marker"
-      14 78 "Force HOPO"
-      14 77 "HARD e String"
-      14 76 "HARD B String"
-      14 75 "HARD G String"
-      14 74 "HARD D String"
-      14 73 "HARD A String"
-      14 72 "HARD E String"
-      14 71 "-----------"
-      14 56 "Arpeggio Marker"
-      14 55 "Slide Marker"
-      14 53 "MEDIUM e String"
-      14 52 "MEDIUM B String"
-      14 51 "MEDIUM G String"
-      14 50 "MEDIUM D String"
-      14 49 "MEDIUM A String"
-      14 48 "MEDIUM E String"
-      14 47 "-----------"
-      14 32 "Arpeggio Marker"
-      14 31 "Slide Marker"
-      14 29 "EASY e String"
-      14 28 "EASY B String"
-      14 27 "EASY G String"
-      14 26 "EASY D String"
-      14 25 "EASY A String"
-      14 24 "EASY E String"
-      14 21 "-----------"
-      14 18 "Flat/Sharp Swap"
-      14 17 "Hide Chord Names"
-      14 16 "Slash Chord"
-      14 15 "D#"
-      14 14 "D"
-      14 13 "C#"
-      14 12 "C"
-      14 11 "B"
-      14 10 "A#"
-      14 9 "A"
-      14 8 "G#"
-      14 7 "G"
-      14 6 "F#"
-      14 5 "F"
-      14 4 "E"
+      0 21 "-----------"
+      0 18 "Flat/Sharp Swap"
+      0 17 "Hide Chord Names"
+      0 16 "Slash Chord"
+      0 15 "D#"
+      0 14 "D"
+      0 13 "C#"
+      0 12 "C"
+      0 11 "B"
+      0 10 "A#"
+      0 9 "A"
+      0 8 "G#"
+      0 7 "G"
+      0 6 "F#"
+      0 5 "F"
+      0 4 "E"
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 42 655 462
+      WNDRECT 0 43 655 467
       SHOW 0
       LASTSEL 1
       DOCKED 0
@@ -5789,39 +5751,39 @@
         0.000000 3.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 0.000000 1.000000 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
       >
       FLOATPOS 0 0 0 0
-      FXID {EA800C0B-5143-4B12-BAA4-11E5F45EEE80}
+      FXID {D80D73D0-E0A2-405B-9DEC-B0FCAAD1E925}
       WAK 0
       BYPASS 0 0
       <VST "VSTi: ReaSynth (Cockos)" "reasynth.dll" 0 ""
         eXNlcu9e7f4AAAAAAgAAAAEAAAAAAAAAAgAAAAAAAAA4AAAAAAAAAA==
-        AAAQAO++rd4N8K3eppvEO+gJMjyHFlk/AAAAAAAAAADMm4A+4jAEPA==
+        AAAQAO++rd4N8K3eppvEO3zrfj2HFlk/AAAAAAAAAADMm4A+4jAEPA==
         AAAAAAAAAD+01hM+j8L1PQAAAD8AABAAAAA=
       >
       FLOATPOS 0 0 0 0
-      FXID {976EC487-98F0-4C33-A940-A31F9389ABBF}
+      FXID {FCB8DD7E-DDE4-40FC-AB2D-417D2CFD9689}
       WAK 0
     >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {F1DDEA42-F786-4FDC-82B5-BC95BD4394B1}
-      IID 4
-      NAME "PART REAL_GUITAR"
+      IGUID {74C6DC3B-B2B4-4494-855A-65923B7ECA51}
+      IID 9
+      NAME "PART REAL_GUITAR - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {B517A5CD-935D-49EF-A630-AAC20C70E108}
+      GUID {E18999FF-D2CB-4879-850B-8FCD0847B512}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {84F45E75-B3B5-46CD-BD3C-B7EFC1F219FB}
+        POOLEDEVTS {616A2CF8-E54F-43DC-97B8-85C57C363131}
         <X 0 0
           /wNQQVJUIFJFQUxfR1VJVEFS
         >
@@ -8430,30 +8392,29 @@
         E 0 90 30 6c
         E 0 90 48 6c
         E 0 90 60 6c
-        E 5759 80 18 00
-        E 0 80 30 00
-        E 0 80 48 00
-        <X 1 0
+        <X 5759 0
           /wFbZW5kX3BnIHNvbmdfdHJhaW5lcl9wZ184XQ==
         >
+        E 0 80 18 00
+        E 0 80 30 00
+        E 0 80 48 00
         E 0 80 73 00
         E 0 80 60 00
         E 5760 b0 7b 00
-        GUID {5200D357-6B39-4416-90B8-97DBE9320AAB}
+        GUID {E4B0C684-D434-4025-9E9F-796D8692F9A0}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 2
-        VELLANE 132 100 100
-        COLORMAP "C:\Users\Ruggery\AppData\Roaming\Reaper\Data\color_maps\rockband_proguitarbass.png"
-        TEXTSTRINGFILE "C:\Program Files (x86)\REAPER\Data\Text_Strings\Text Events List - Pro Trainers.txt"
-        CFGEDITVIEW 25580.170902 134.382065 0 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 15 1 1 0.25000000 -8 0 1364 744 0 2 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
-        EVTFILTER 0 -1 -1 -1 -1 14 0 0 0 -1.00000000 -1.00000000
+        SRCCOLOR 10
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -5511.107825 11.656449 7 12 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
+        EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{13354D24-4920-4D74-A1FC-7ACF76E39713}'
-    NAME "EVENTS"
+  <TRACK '{4B166C50-E55A-4F2A-B1DC-CD5990025C50}'
+    NAME "EVENTS - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -8471,31 +8432,41 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {13354D24-4920-4D74-A1FC-7ACF76E39713}
+    TRACKID {4B166C50-E55A-4F2A-B1DC-CD5990025C50}
     PERF 0
     MIDIOUT -1
+    <MIDINOTENAMES
+      0 26 "Hi-Hat"
+      0 25 "Snare"
+      0 24 "Kick"
+    >
     MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {6B0C05DD-F461-45F4-A11D-C1FBC5D9E852}
-      IID 13
-      NAME "EVENTS"
+      IGUID {9D118870-7EA5-4BDF-A722-0C3E7BAE2D9F}
+      IID 10
+      NAME "EVENTS - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {22FBC1E7-4F66-46FF-95B1-20FD504BDF06}
+      GUID {D7BB2207-853A-4F61-8669-3E038CA73C15}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {8C137EE0-0B20-4630-B7A9-366EF251BCD2}
+        POOLEDEVTS {074D2C79-8E7F-4680-82A6-62E444361822}
         <X 0 0
           /wNFVkVOVFM=
         >
@@ -8527,20 +8498,20 @@
           /wFbZW5kXQ==
         >
         E 5 b0 7b 00
-        GUID {E20C4226-09F3-4A5F-8202-635D825C500B}
+        GUID {8ECFED8D-FA8A-4339-8E96-E4748E2786FA}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 8
-        VELLANE 132 100 100
-        COLORMAP "C:\Program Files (x86)\REAPER\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW 70652.730883 130.649230 61 12 0 0 0
-        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1364 736 0 0 1 2 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
-        KEYSNAP 0 0 "100304450070" 0 "Blues"
+        SRCCOLOR 11
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -5511.107825 11.656449 0 48 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{24D0B141-0951-4754-B267-679E230357D1}'
-    NAME "BEAT"
+  <TRACK '{AA399AEE-965E-4DDB-98EE-0AA7EEFCD57A}'
+    NAME "BEAT - 7748thefightisover"
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -8558,369 +8529,385 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {24D0B141-0951-4754-B267-679E230357D1}
+    TRACKID {AA399AEE-965E-4DDB-98EE-0AA7EEFCD57A}
     PERF 0
     MIDIOUT -1
+    <MIDINOTENAMES
+      0 13 "Up Beats"
+      0 12 "Downbeat"
+    >
     MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
     <ITEM
       POSITION 0.00000000000000
       SNAPOFFS 0.00000000000000
-      LENGTH 87.58319334564294
+      LENGTH 87.58300000000000
       LOOP 0
       ALLTAKES 0
       SEL 0
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {BF9B5664-FDD8-419D-9C84-807FD7FE2498}
-      IID 12
-      NAME "BEAT"
+      IGUID {45A9B583-13E2-4309-BE9F-9DE8C915738D}
+      IID 11
+      NAME "BEAT - 7748thefightisover.mid"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {EEEA3B25-7565-4BBC-90D1-ADE336E80E0D}
+      GUID {8EFE3554-93D7-45ED-BD19-548F9DBF30A1}
       <SOURCE MIDI
         HASDATA 1 480 QN
-        POOLEDEVTS {A1C1F5BF-8F0D-4341-B47F-38EDADB56EF7}
-        e 0 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0c 64
-        e 120 86 0c 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
-        e 360 96 0d 64
-        e 120 86 0d 00
+        POOLEDEVTS {66358AFB-6A06-489A-AAE8-4F02A1485BD0}
+        <X 0 0
+          /wNCRUFU
+        >
+        E 0 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0c 64
+        E 120 86 0c 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
+        E 360 96 0d 64
+        E 120 86 0d 00
         E 360 b0 7b 00
-        GUID {1CC91B5F-8095-42C4-9697-0F3E8FA1DD9B}
+        GUID {AFB07CE8-7B81-4741-A043-353FE1BBD0BB}
         IGNTEMPO 0 120.00000000 4 4
-        SRCCOLOR 7
-        VELLANE 132 100 100
-        COLORMAP "C:\Program Files (x86)\REAPER\Data\color_maps\rockband_guitarbass.png"
+        SRCCOLOR 12
+        VELLANE 132 128 60
+        COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
+        CFGEDITVIEW -5511.107825 11.656449 0 48 0 0 0
+        CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
+        KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
+        EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
       >
     >
   >
-  <TRACK '{024710E1-5AA8-404A-8153-ADD0E3739BB3}'
+  <TRACK '{097C53F5-D703-4F60-B673-657707E7D9AD}'
     NAME "backing"
     PEAKCOL 16576
     BEAT -1
@@ -8939,7 +8926,7 @@
     INQ 0 0 0 0.5000000000 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {024710E1-5AA8-404A-8153-ADD0E3739BB3}
+    TRACKID {097C53F5-D703-4F60-B673-657707E7D9AD}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
@@ -8953,14 +8940,14 @@
       FADEIN 1 0.000000 0.000000 1 0
       FADEOUT 1 0.000000 0.000000 1 0
       MUTE 0
-      IGUID {09549DCA-D7C9-4340-84CA-72F85BD2E701}
-      IID 26
+      IGUID {D41536D5-5A2D-466C-BE89-568F007EFEC2}
+      IID 12
       NAME "backing.wav"
       VOLPAN 1.000000 0.000000 1.000000 -1.000000
       SOFFS 0.00000000000000
       PLAYRATE 1.00000000000000 1 0.00000000000000 -1
       CHANMODE 0
-      GUID {7E09D1B0-0FA2-4A88-9AE3-C0B65011C40F}
+      GUID {0DCD41EA-E6D1-454E-8E74-8F1AFFE60D9E}
       <SOURCE WAVE
         FILE "wav\backing.wav"
       >
