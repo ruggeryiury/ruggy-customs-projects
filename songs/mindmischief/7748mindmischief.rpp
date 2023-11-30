@@ -13,7 +13,7 @@
   TIMEMODE 1 0 -1
   PANMODE 3
   CURSOR 0.00000000000000
-  ZOOM 4.06715846103283 0 0
+  ZOOM 31.62861037958965 0 0
   VZOOMEX 6
   USE_REC_CFG 0
   RECMODE 1
@@ -33170,10 +33170,8 @@
         <X 0 0
           /wNQQVJUIFJFQUxfS0VZU19I
         >
-        E 0 90 09 60
-        E 0 90 09 60
-        E 120 80 09 00
-        E 0 80 09 00
+        e 0 90 09 60
+        e 120 80 09 00
         E 189960 90 3f 60
         E 0 90 42 60
         E 0 90 46 60
@@ -34032,7 +34030,7 @@
         SRCCOLOR 8
         VELLANE 132 128 60
         COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW 273303.724639 49.841938 0 15 0 0 0
+        CFGEDITVIEW -2866.763051 31.628610 0 15 0 0 0
         CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 1 0 0.500000 0 0 1.000000 64
         KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
@@ -34129,12 +34127,8 @@
         <X 0 0
           /wNQQVJUIFJFQUxfS0VZU19N
         >
-        E 0 90 09 60
-        E 0 90 09 60
-        E 0 90 09 60
-        E 120 80 09 00
-        E 0 80 09 00
-        E 0 80 09 00
+        e 0 90 09 60
+        e 120 80 09 00
         E 189960 90 3f 60
         E 120 80 3f 00
         E 840 90 3f 60
@@ -34561,7 +34555,7 @@
         SRCCOLOR 9
         VELLANE 132 128 60
         COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW 273329.686138 49.841938 0 15 0 0 0
+        CFGEDITVIEW -2866.763051 31.628610 0 15 0 0 0
         CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 1 0 0.500000 0 0 1.000000 64
         KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
@@ -34659,13 +34653,7 @@
           /wNQQVJUIFJFQUxfS0VZU19F
         >
         E 0 90 09 60
-        E 0 90 09 60
-        E 0 90 09 60
-        E 0 90 09 60
         E 120 80 09 00
-        E 0 80 09 00
-        E 0 80 09 00
-        E 0 80 09 00
         E 189960 90 3f 60
         E 120 80 3f 00
         E 840 90 3f 60
@@ -34900,7 +34888,7 @@
         SRCCOLOR 10
         VELLANE 132 128 60
         COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW -22293.631403 4.067158 0 15 0 0 0
+        CFGEDITVIEW -2866.763051 31.628610 0 15 0 0 0
         CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 1 0 0.500000 0 0 1.000000 64
         KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
