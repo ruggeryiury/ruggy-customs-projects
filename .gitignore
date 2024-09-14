@@ -1,5 +1,8 @@
 # CON files folder
 packages/
+old_packages/
+test/
+unpacked/
 
 # Duplicated MAGMA album arts
 *_keep_x256.bmp

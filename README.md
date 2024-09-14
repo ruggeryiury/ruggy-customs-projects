@@ -4,6 +4,7 @@
 
 <div align=center>
 <img src='./assets/rb3logo.webp' width='48px'>
+<img src='./assets/ruggy.png' width='48px'>
 </div>
 
 <div align=center>
