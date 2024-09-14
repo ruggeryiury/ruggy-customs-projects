@@ -12,7 +12,7 @@
   GRID 3199 8 1.00000000000000 8 1.00000000000000 0
   TIMEMODE 1 0 -1
   PANMODE 3
-  CURSOR 71.31425600000000
+  CURSOR 0.00000000000000
   ZOOM 8.46232329043702 0 0
   VZOOMEX 6
   USE_REC_CFG 0
@@ -176,7 +176,7 @@
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 43 891 559
+      WNDRECT -1 289 891 559
       SHOW 0
       LASTSEL 0
       DOCKED 0
@@ -8705,7 +8705,7 @@
       CHANMODE 0
       GUID {AABA0F3E-096F-4314-8F06-8F79F027FABE}
       <SOURCE WAVE
-        FILE "C:\Users\Ruggery\Documents\Visual Studio Code\Projects\ruggy-customs-projects\songs\passport\wav\kick.wav"
+        FILE "wav\kick.wav"
       >
     >
   >
@@ -8751,7 +8751,7 @@
       CHANMODE 0
       GUID {86F82FEA-05F7-4CCE-9C30-6CB1767EAA78}
       <SOURCE WAVE
-        FILE "C:\Users\Ruggery\Documents\Visual Studio Code\Projects\ruggy-customs-projects\songs\passport\wav\snare.wav"
+        FILE "wav\snare.wav"
       >
     >
   >
@@ -8797,7 +8797,7 @@
       CHANMODE 0
       GUID {F4A686BF-8C27-457F-B2C6-37AF1854D1BC}
       <SOURCE WAVE
-        FILE "C:\Users\Ruggery\Documents\Visual Studio Code\Projects\ruggy-customs-projects\songs\passport\wav\kit.wav"
+        FILE "wav\kit.wav"
       >
     >
   >
@@ -8878,7 +8878,7 @@
     >
     MAINSEND 1 0
     <FXCHAIN
-      WNDRECT 0 43 891 559
+      WNDRECT 360 180 891 559
       SHOW 0
       LASTSEL 0
       DOCKED 0
@@ -10839,9 +10839,9 @@
         GUID {5D4CBA1F-9730-4316-B96F-8FBDFADA5C11}
         IGNTEMPO 0 120.00000000 4 4
         SRCCOLOR 181
-        VELLANE 131 128 60
+        VELLANE 132 128 60
         COLORMAP "C:\Program Files\REAPER (x64)\Data\color_maps\rockband_guitarbass.png"
-        CFGEDITVIEW -1463.167638 69.848485 0 12 0 0 0
+        CFGEDITVIEW -12077.066673 8.462323 0 12 0 0 0
         CFGEDIT 1 1 0 1 1 0 1 1 1 1 1 0.25000000 -8 -8 1544 872 0 2 1 1 0.00000000 0 1 0 0 0.500000 0 0 1.000000 64
         KEYSNAP 0 6 "102030050700" 0 "Pentatonic"
         EVTFILTER 0 -1 -1 -1 -1 0 1 0 0 -1.00000000 -1.00000000
@@ -10890,7 +10890,7 @@
       CHANMODE 0
       GUID {4B50859A-66CF-4BDC-BFC1-53B6101CACCB}
       <SOURCE WAVE
-        FILE "C:\Users\Ruggery\Documents\Visual Studio Code\Projects\ruggy-customs-projects\songs\passport\wav\bass.wav"
+        FILE "wav\bass.wav"
       >
     >
   >
@@ -12920,7 +12920,7 @@
       CHANMODE 0
       GUID {9DF93ED5-1CD6-4F82-8959-3694BD168C74}
       <SOURCE WAVE
-        FILE "C:\Users\Ruggery\Documents\Visual Studio Code\Projects\ruggy-customs-projects\songs\passport\wav\guitar.wav"
+        FILE "wav\guitar.wav"
       >
     >
   >
@@ -12936,7 +12936,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
     FREEMODE 0
-    SEL 0
+    SEL 1
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
@@ -17623,7 +17623,7 @@
     BUSCOMP 0 0
     SHOWINMIX 1 0.666700 0.500000 1 0.500000 -1 -1 -1
     FREEMODE 0
-    SEL 1
+    SEL 0
     REC 0 0 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0
@@ -17653,7 +17653,7 @@
       CHANMODE 0
       GUID {8E3767EA-0F16-422D-8412-1C8607E30785}
       <SOURCE WAVE
-        FILE "C:\Users\Ruggery\Documents\Visual Studio Code\Projects\ruggy-customs-projects\songs\passport\wav\keys.wav"
+        FILE "wav\keys.wav"
       >
     >
   >
@@ -27397,7 +27397,7 @@
       CHANMODE 0
       GUID {A812173E-24AB-4648-B4A5-BD48B56CDDF4}
       <SOURCE WAVE
-        FILE "C:\Users\Ruggery\Documents\Visual Studio Code\Projects\ruggy-customs-projects\songs\passport\wav\backing.wav"
+        FILE "wav\backing.wav"
       >
     >
   >
